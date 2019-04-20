@@ -1,0 +1,62 @@
+OVERVIEW: LLVM Archiver (llvm-ar)
+
+  This program archives bitcode files into single libraries
+
+USAGE: llvm-ar [options] [relpos] [count] <archive-file> [members]...
+
+OPTIONS:
+
+General options:
+
+  -M                                   - 
+  -enable-objc-arc-opts                - enable/disable all ARC Optimizations
+  -enable-scoped-noalias               - 
+  -enable-tbaa                         - 
+  -filter-print-funcs=<function names> - Only print IR for functions whose name match this for all print-[before|after][-all] options
+  -format                              - Archive format to create
+    =default                           -   default
+    =gnu                               -   gnu
+    =bsd                               -   bsd
+  -join-liveintervals                  - Coalesce copies (default=true)
+  -plugin=<string>                     - plugin (ignored for compatibility
+  -print-after-all                     - Print IR after each pass
+  -print-before-all                    - Print IR before each pass
+  -rng-seed=<seed>                     - Seed for the random number generator
+  -stackmap-version=<int>              - Specify the stackmap encoding version (default = 2)
+  -time-passes                         - Time each pass, printing elapsed time for each on exit
+  -verify-debug-info                   - 
+  -verify-dom-info                     - Verify dominator info (time consuming)
+  -verify-loop-info                    - Verify loop info (time consuming)
+  -verify-loop-lcssa                   - Verify loop lcssa form (time consuming)
+  -verify-machine-dom-info             - Verify machine dominator info (time consuming)
+  -verify-scev                         - Verify ScalarEvolution's backedge taken counts (slow)
+  -verify-scev-maps                    - Verify no dangling value in ScalarEvolution's ExprValueMap (slow)
+
+Generic Options:
+
+  -help                                - Display available options (-help-hidden for more)
+  -help-list                           - Display list of available options (-help-list-hidden for more)
+  -version                             - Display the version of this program
+
+OPERATIONS:
+  d[NsS]       - delete file(s) from the archive
+  m[abiSs]     - move file(s) in the archive
+  p[kN]        - print file(s) found in the archive
+  q[ufsS]      - quick append file(s) to the archive
+  r[abfiuRsS]  - replace or insert file(s) into the archive
+  t            - display contents of archive
+  x[No]        - extract file(s) from the archive
+
+MODIFIERS (operation specific):
+  [a] - put file(s) after [relpos]
+  [b] - put file(s) before [relpos] (same as [i])
+  [i] - put file(s) before [relpos] (same as [b])
+  [o] - preserve original dates
+  [s] - create an archive index (cf. ranlib)
+  [S] - do not build a symbol table
+  [T] - create a thin archive
+  [u] - update only files newer than archive contents
+
+MODIFIERS (generic):
+  [c] - do not warn if the library had to be created
+  [v] - be verbose about actions taken

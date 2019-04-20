@@ -1,0 +1,2635 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 5 0 R
+ /F5 7 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+5 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 22 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F5': class PDFType1Font 
+7 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 23 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 24 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 25 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 26 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 27 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Contents 28 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Contents 29 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page9': class PDFPage 
+15 0 obj
+% Page dictionary
+<< /Contents 30 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page10': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Contents 31 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page11': class PDFPage 
+17 0 obj
+% Page dictionary
+<< /Contents 32 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page12': class PDFPage 
+18 0 obj
+% Page dictionary
+<< /Contents 33 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 21 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R19': class PDFCatalog 
+19 0 obj
+% Document Root
+<< /Outlines 34 0 R
+ /PageLabels 35 0 R
+ /PageMode /UseNone
+ /Pages 21 0 R
+ /Type /Catalog >>
+endobj
+% 'R20': class PDFInfo 
+20 0 obj
+<< /Author ()
+ /CreationDate (D:20180813045432-02'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Apex Builtins) >>
+endobj
+% 'R21': class PDFPages 
+21 0 obj
+% page tree
+<< /Count 12
+ /Kids [ 6 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R ]
+ /Type /Pages >>
+endobj
+% 'R22': class PDFStream 
+22 0 obj
+% page stream
+<< /Length 6330 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9.64 Tm /F2 20 Tf 24 TL 171.0449 0 Td (Apex Builtins) Tj T* -171.0449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (This document was generated on 13-August-2018.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Build #530, based on clang 4.0.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.6772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 642.6772 cm
+q
+BT 1 0 0 1 0 16.82 Tm .65683 Tw 12 TL /F1 10 Tf 0 0 0 rg (This is the list of low level APEX builtins. Each builtins map to one asm instruction. These are also used) Tj T* 0 Tw (by the user level instrinsics defined in ) Tj /F3 10 Tf ("include/ewl2/apex/intrinsics.hpp") Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.6772 cm
+q
+BT 1 0 0 1 0 16.82 Tm .291412 Tw 12 TL /F1 10 Tf 0 0 0 rg (For details on the user level instrinsics, please refer to the document ) Tj /F3 10 Tf (ApexIntrinsics.pdf ) Tj /F1 10 Tf (For details) Tj T* 0 Tw (on the ISA, please refer to the document ) Tj /F3 10 Tf (HDD_10294_14_08_APEX2_Inst_Ref_Guide.pdf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .241163 Tw (The examples in this document are functions that contain only the builtin as the body. Because of register) Tj T* 0 Tw .144692 Tw (constraints, transfers may appear in order to enforce the calling convention, but the builtin will map to only) Tj T* 0 Tw (1 instruction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 516.6772 cm
+q
+BT 1 0 0 1 0 40.82 Tm .008876 Tw 12 TL /F1 10 Tf 0 0 0 rg (For builtins that have a "parameter" marked with ) Tj /F3 10 Tf (const) Tj /F1 10 Tf (, the examples are provided for values of ) Tj /F3 10 Tf (0 ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (1) Tj /F1 10 Tf (.) Tj T* 0 Tw 1.098651 Tw (When using these builtins with ) Tj /F3 10 Tf (const ) Tj /F1 10 Tf (parameters, the value given should be a compile time constant,) Tj T* 0 Tw 1.270514 Tw (not a variable. When the parameter is not marked with ) Tj /F3 10 Tf (const) Tj /F1 10 Tf (, the value can be either a variable or a) Tj T* 0 Tw (constant.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.4772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf .25098 .501961 .501961 rg (/* extract lower 16-bit from 32-bit vector */) Tj /F3 10 Tf 0 0 0 rg  T* (vec16s) Tj ( ) Tj (__builtin_apex_vec32_get_lo) Tj (\() Tj (vec32s) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 426.2772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf .25098 .501961 .501961 rg (/* extract upper 16-bit from 32-bit vector */) Tj /F3 10 Tf 0 0 0 rg  T* (vec16s) Tj ( ) Tj (__builtin_apex_vec32_get_hi) Tj (\() Tj (vec32s) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 381.0772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf .25098 .501961 .501961 rg (/* create 32-bit vector from two 16-bit fragment */) Tj /F3 10 Tf 0 0 0 rg  T* (vec32s) Tj ( ) Tj (__builtin_apex_vec32_pack) Tj (\() Tj (vec16s) Tj ( ) Tj (lo) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (hi) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 323.8772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_sext) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (xtd) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (r3) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 266.6772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_clb) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (clb) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 209.4772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_haddu) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (hadduu) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (r3) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 152.2772 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_hadds) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (haddss) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (r3) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 95.07717 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_rhaddu) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (rhadduu) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (r3) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R23': class PDFStream 
+23 0 obj
+% page stream
+<< /Length 7081 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_rhadds) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (rhaddss) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (r3) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 658.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_vget) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (i) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vex) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (r2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 601.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vput) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (s0) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (s1) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (i) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vwe) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (r1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 544.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vputv) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (s0) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (s1) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (i) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vwe) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 487.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vputvv) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (s0) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (s1) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (s2) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vwe) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v3) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 357.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_vget_vc) Tj 0 0 0 rg (\() Tj (vbool) Tj ( ) Tj (s0) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (sel) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (sel) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vex_vc) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (sel) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vex_vc) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 228.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vbool) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vput_vc) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (s0) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (sel) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (sel) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vput) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (sel) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vput) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 99.42362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vaddr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vadd) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vadd) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R24': class PDFStream 
+24 0 obj
+% page stream
+<< /Length 7696 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 643.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsubr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsub) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsub) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 514.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vandr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vand) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vand) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 385.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vxorr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vxor) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vxor) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 256.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vorr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vor) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vor) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 199.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsext) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vxtd) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 81.82362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 108 re B*
+Q
+q
+BT 1 0 0 1 0 89.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsexti) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (b) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vxtd) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (b) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vxtd) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R25': class PDFStream 
+25 0 obj
+% page stream
+<< /Length 7460 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 610.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsextr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vxtd) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vxtd) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 553.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vhaddu) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16u) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vhadduu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 496.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vhadds) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vhaddss) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 439.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vrhaddu) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16u) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vrhadduu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 381.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vrhadds) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vrhaddss) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 252.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vhaddur) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vhadduu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vhadduu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 123.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vhaddsr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vhaddss) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vhaddss) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 78.22362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vrhaddur) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R26': class PDFStream 
+26 0 obj
+% page stream
+<< /Length 6889 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 667.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+BT 1 0 0 1 0 77.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (   ) Tj (vrhadduu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vrhadduu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 538.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vrhaddsr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vrhaddss) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vrhaddss) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 481.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vabs_diff) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vabs_diff) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 424.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vabs_diffu) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16u) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vabs_diffu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 367.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vabs) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vabs) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 237.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vabs_diffr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vabs_diff) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vabs_diff) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 108.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vabs_diffur) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vabs_diffu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vabs_diffu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R27': class PDFStream 
+27 0 obj
+% page stream
+<< /Length 7414 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vadd_sat) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vadd_sat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 658.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vadd_satu) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16u) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vadd_satu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 601.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsub_sat) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsub_sat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 544.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsub_satu) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16u) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsub_satu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 415.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vadd_satr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vadd_sat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vadd_sat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 285.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsub_satr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsub_sat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsub_sat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 156.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vadd_satur) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vadd_satu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vadd_satu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 87.42362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 41.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsub_satur) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (e) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsub_satu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (15) Tj (:) Tj (0) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R28': class PDFStream 
+28 0 obj
+% page stream
+<< /Length 7178 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 691.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 53.71 Tm 12 TL /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (e) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsub_satu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj ( ) Tj ([) Tj .4 .4 .4 rg (31) Tj (:) Tj (16) Tj 0 0 0 rg (]) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 634.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsat_vv) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (v) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (l) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (u) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj (,) Tj ( ) Tj (v3) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 577.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsat_vr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (v) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (l) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (u) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj (,) Tj ( ) Tj (r1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 520.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsat_rv) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (v) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (l) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (u) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 463.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsat_rr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (v) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (l) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (u) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsat) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 405.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vclz) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vclz) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 348.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vcld) Tj 0 0 0 rg (\() Tj (vec16u) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vcld) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 291.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vpcnt) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vpcnt) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 162.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vasb) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (,) Tj ( ) Tj (vbool) Tj ( ) Tj (c) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (f) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (f) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vasb) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (f) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vasb) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 81.02362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 53.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vasbr0) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj (vbool) Tj ( ) Tj (c) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (f) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (f) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vasb) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (f) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R29': class PDFStream 
+29 0 obj
+% page stream
+<< /Length 5962 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 703.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 41.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (   ) Tj (vasb) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 574.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vasbr1) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (,) Tj ( ) Tj (vbool) Tj ( ) Tj (c) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (f) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (f) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vasb) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (f) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vasb) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 517.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vasbs) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vasbs) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 460.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vasbsvr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vasbs) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 403.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vasbsrv) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vasbs) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 345.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vilb) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vilb) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 288.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16u) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vilbu) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vilbu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 231.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vilw) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vilw) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 174.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_visb) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (visb) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 117.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_visw) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (visw) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R30': class PDFStream 
+30 0 obj
+% page stream
+<< /Length 6096 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_lulu) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_lulu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 658.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_lslu) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_lslu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 601.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_lsls) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_lsls) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 544.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_hulu) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_hulu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 487.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_huls) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_huls) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 429.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_hslu) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_hslu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 372.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_hsls) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_hsls) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 315.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_huhu) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_huhu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 258.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_hshu) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_hshu) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmul_hshs) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmul_hshs) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 143.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vrl) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vrl) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 86.62362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vslc) Tj 0 0 0 rg (\() Tj (vbool) Tj ( ) Tj (c) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsll_vc) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R31': class PDFStream 
+31 0 obj
+% page stream
+<< /Length 6318 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vsrc) Tj 0 0 0 rg (\() Tj (vbool) Tj ( ) Tj (c) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vsrl_vc) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (v1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 658.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vbool) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vcsr) Tj 0 0 0 rg (\() Tj (vbool) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vbool) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vcsr) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (vc1) Tj (,) Tj ( ) Tj (vc2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 601.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vbool) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vcsl) Tj 0 0 0 rg (\() Tj (vbool) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vbool) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vcsl) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (vc1) Tj (,) Tj ( ) Tj (vc2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 544.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_vany) Tj 0 0 0 rg (\() Tj (vbool) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vany) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (vc0) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 487.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_vall) Tj 0 0 0 rg (\() Tj (vbool) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vall) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (vc0) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 333.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 144 re B*
+Q
+q
+BT 1 0 0 1 0 125.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_padd) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (b) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (padd) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* (   ) Tj (or) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (r2) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (b) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (padd) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* (   ) Tj (or) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (r2) Tj  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 204.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_paddr) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (b) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (add) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (b) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (add) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (#) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 147.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_paddrr) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (add) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj (,) Tj ( ) Tj (r3) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 90.22362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_mov) Tj 0 0 0 rg (\() Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (mov) Tj ( ) Tj (r1) Tj (,) Tj ( ) Tj (r2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R32': class PDFStream 
+32 0 obj
+% page stream
+<< /Length 5712 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_vcs_push) Tj 0 0 0 rg (\() Tj (vbool) Tj ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vcspush) Tj ( ) Tj (vc0) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 658.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_vcs_flip) Tj 0 0 0 rg (\(\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vcsflip) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 601.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_vcs_pop) Tj 0 0 0 rg (\(\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vcspop) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 544.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vbool) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vcs_get) Tj 0 0 0 rg (\(\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vcmv) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (vcsptr) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 487.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vbool) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vcs_inv_get) Tj 0 0 0 rg (\(\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vcinv) Tj ( ) Tj (vc0) Tj (,) Tj ( ) Tj (vcsptr) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 429.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmrlv) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmrlv) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 372.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmrrv) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmrrv) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (v2) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 315.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmrlr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmrlr) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 258.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj 0 0 1 rg (__builtin_apex_vmrrr) Tj 0 0 0 rg (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (b) Tj (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (vmrrr) Tj ( ) Tj (v0) Tj (,) Tj ( ) Tj (v1) Tj (,) Tj ( ) Tj (r1) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 129.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 101.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_wait) Tj 0 0 0 rg (\() Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F3 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj (a) Tj (\)) Tj ( ) Tj ({) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (a) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (wait) Tj ( ) Tj (#) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (\() Tj (a) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (wait) Tj ( ) Tj (#) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* ( ) Tj (}) Tj  T* ( ) Tj /F5 10 Tf 0 .501961 0 rg (else) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf 0 0 0 rg ( ) Tj (...) Tj  T* (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 83.82362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__builtin_apex_swbreak) Tj 0 0 0 rg (\(\)) Tj ( ) Tj ({) Tj  T* (   ) Tj (swbrk) Tj  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R33': class PDFStream 
+33 0 obj
+% page stream
+<< /Length 294 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R34': class PDFOutlines 
+34 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R35': class PDFPageLabels 
+35 0 obj
+% Document Root
+<< /Nums [ 0
+ 36 0 R
+ 1
+ 37 0 R
+ 2
+ 38 0 R
+ 3
+ 39 0 R
+ 4
+ 40 0 R
+ 5
+ 41 0 R
+ 6
+ 42 0 R
+ 7
+ 43 0 R
+ 8
+ 44 0 R
+ 9
+ 45 0 R
+ 10
+ 46 0 R
+ 11
+ 47 0 R ] >>
+endobj
+% 'R36': class PDFPageLabel 
+36 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R37': class PDFPageLabel 
+37 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R38': class PDFPageLabel 
+38 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R39': class PDFPageLabel 
+39 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R40': class PDFPageLabel 
+40 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R41': class PDFPageLabel 
+41 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R42': class PDFPageLabel 
+42 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R43': class PDFPageLabel 
+43 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R44': class PDFPageLabel 
+44 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R45': class PDFPageLabel 
+45 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+% 'R46': class PDFPageLabel 
+46 0 obj
+% None
+<< /S /D
+ /St 11 >>
+endobj
+% 'R47': class PDFPageLabel 
+47 0 obj
+% None
+<< /S /D
+ /St 12 >>
+endobj
+xref
+0 48
+0000000000 65535 f
+0000000113 00000 n
+0000000257 00000 n
+0000000422 00000 n
+0000000597 00000 n
+0000000758 00000 n
+0000000933 00000 n
+0000001214 00000 n
+0000001383 00000 n
+0000001662 00000 n
+0000001941 00000 n
+0000002221 00000 n
+0000002501 00000 n
+0000002781 00000 n
+0000003061 00000 n
+0000003341 00000 n
+0000003622 00000 n
+0000003903 00000 n
+0000004184 00000 n
+0000004465 00000 n
+0000004624 00000 n
+0000004846 00000 n
+0000005051 00000 n
+0000011482 00000 n
+0000018664 00000 n
+0000026461 00000 n
+0000034022 00000 n
+0000041012 00000 n
+0000048527 00000 n
+0000055806 00000 n
+0000061869 00000 n
+0000068066 00000 n
+0000074485 00000 n
+0000080298 00000 n
+0000080694 00000 n
+0000080777 00000 n
+0000081015 00000 n
+0000081092 00000 n
+0000081169 00000 n
+0000081246 00000 n
+0000081323 00000 n
+0000081400 00000 n
+0000081477 00000 n
+0000081554 00000 n
+0000081631 00000 n
+0000081708 00000 n
+0000081786 00000 n
+0000081864 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(s\013\374y\210\341\254\252\313E\260'\024\272\353C) (s\013\374y\210\341\254\252\313E\260'\024\272\353C)] 
+
+ /Info 20 0 R
+ /Root 19 0 R
+ /Size 48 >>
+startxref
+81912
+%%EOF

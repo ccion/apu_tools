@@ -1,0 +1,3610 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 9 0 R
+ /F4 10 0 R
+ /F5 14 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 204.0586
+ 0 ]
+ /Rect [ 83.26291
+ 686.5936
+ 143.2829
+ 698.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://releases.llvm.org/4.0.0/tools/clang/docs/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 145.7029
+ 503.5936
+ 348.5729
+ 515.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://sourceware.org/binutils/docs-2.27/ld/index.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 250.2129
+ 461.5936
+ 488.6429
+ 473.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://llvm.org/docs/CommandGuide/llvm-ar.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 154.5929
+ 443.5936
+ 373.5329
+ 455.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://jira.sw.nxp.com/secure/RapidBoard.jspa?projectKey=CMPAPEX) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 62.69291
+ 347.5936
+ 532.5827
+ 359.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+9 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+10 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R ]
+ /Contents 44 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 45 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://releases.llvm.org/4.0.0/tools/clang/docs/LanguageExtensions.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 82.69291
+ 597.5936
+ 400.6229
+ 609.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F5': class PDFType1Font 
+14 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 773.4586
+ 0 ]
+ /Rect [ 337.5394
+ 181.3936
+ 385.7721
+ 193.3936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page3': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Annots [ 13 0 R
+ 15 0 R ]
+ /Contents 46 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+17 0 obj
+% Page dictionary
+<< /Contents 47 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+18 0 obj
+% Page dictionary
+<< /Contents 48 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Contents 49 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+20 0 obj
+% Page dictionary
+<< /Contents 50 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page8': class PDFPage 
+21 0 obj
+% Page dictionary
+<< /Contents 51 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page9': class PDFPage 
+22 0 obj
+% Page dictionary
+<< /Contents 52 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page10': class PDFPage 
+23 0 obj
+% Page dictionary
+<< /Contents 53 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 43 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R24': class PDFCatalog 
+24 0 obj
+% Document Root
+<< /Outlines 26 0 R
+ /PageLabels 54 0 R
+ /PageMode /UseNone
+ /Pages 43 0 R
+ /Type /Catalog >>
+endobj
+% 'R25': class PDFInfo 
+25 0 obj
+<< /Author ()
+ /CreationDate (D:20180813045433-02'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Apex LLVM Readme) >>
+endobj
+% 'R26': class PDFOutlines 
+26 0 obj
+<< /Count 17
+ /First 27 0 R
+ /Last 42 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+27 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 671.0236
+ 0 ]
+ /Next 28 0 R
+ /Parent 26 0 R
+ /Title (Introduction) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+28 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 578.0236
+ 0 ]
+ /Next 29 0 R
+ /Parent 26 0 R
+ /Prev 27 0 R
+ /Title (Online Documentation) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 401.0236
+ 0 ]
+ /Next 30 0 R
+ /Parent 26 0 R
+ /Prev 28 0 R
+ /Title (Bug report) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 62.69291
+ 332.0236
+ 0 ]
+ /Next 31 0 R
+ /Parent 26 0 R
+ /Prev 29 0 R
+ /Title (Compiler) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 582.0236
+ 0 ]
+ /Next 32 0 R
+ /Parent 26 0 R
+ /Prev 30 0 R
+ /Title (Linker) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 153.8236
+ 0 ]
+ /Next 33 0 R
+ /Parent 26 0 R
+ /Prev 31 0 R
+ /Title (Libraries) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 34 0 R
+ /Parent 26 0 R
+ /Prev 32 0 R
+ /Title (Assembler) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 381.6236
+ 0 ]
+ /Next 35 0 R
+ /Parent 26 0 R
+ /Prev 33 0 R
+ /Title (Disassembler) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 19 0 R
+ /XYZ
+ 62.69291
+ 647.8236
+ 0 ]
+ /Next 36 0 R
+ /Parent 26 0 R
+ /Prev 34 0 R
+ /Title (ABI and programming model compatibility) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+36 0 obj
+<< /Dest [ 19 0 R
+ /XYZ
+ 62.69291
+ 418.8236
+ 0 ]
+ /Next 37 0 R
+ /Parent 26 0 R
+ /Prev 35 0 R
+ /Title (Instrumentation) >>
+endobj
+% 'Outline.10': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 156.6439
+ 0 ]
+ /Next 38 0 R
+ /Parent 26 0 R
+ /Prev 36 0 R
+ /Title (License Check) >>
+endobj
+% 'Outline.11': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 39 0 R
+ /Parent 26 0 R
+ /Prev 37 0 R
+ /Title (Examples) >>
+endobj
+% 'Outline.12': class OutlineEntryObject 
+39 0 obj
+<< /Count 1
+ /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 338.4236
+ 0 ]
+ /First 40 0 R
+ /Last 40 0 R
+ /Next 41 0 R
+ /Parent 26 0 R
+ /Prev 38 0 R
+ /Title (Tips and tricks) >>
+endobj
+% 'Outline.17.0': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 305.4236
+ 0 ]
+ /Parent 39 0 R
+ /Title (Delay slots) >>
+endobj
+% 'Outline.13': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 348.6236
+ 0 ]
+ /Next 42 0 R
+ /Parent 26 0 R
+ /Prev 39 0 R
+ /Title (Known issues) >>
+endobj
+% 'Outline.14': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 195.6236
+ 0 ]
+ /Parent 26 0 R
+ /Prev 41 0 R
+ /Title (Build version) >>
+endobj
+% 'R43': class PDFPages 
+43 0 obj
+% page tree
+<< /Count 10
+ /Kids [ 11 0 R
+ 12 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R ]
+ /Type /Pages >>
+endobj
+% 'R44': class PDFStream 
+44 0 obj
+% page stream
+<< /Length 7709 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9.64 Tm /F2 20 Tf 24 TL 138.8149 0 Td (Apex LLVM Readme) Tj T* -138.8149 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (This document was generated on 13-August-2018.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Build #530, based on clang 4.0.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (See ) Tj 0 0 .501961 rg (Build version ) Tj 0 0 0 rg (for individual components.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 2.203828 Tw (LLVM \(Low-Level Virtual Machine\) is a framework for developing compilers for various CPU targets.) Tj T* 0 Tw (CLANG is the front-end for the C language and also the name of the main executable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 590.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .889461 Tw (This document is intended both as a quick-start guide for using the compiler and also as a list of APEX) Tj T* 0 Tw (specific features/issues.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Online Documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.640814 Tw (Please refer to opensource community documentation referenced below for features that are common) Tj T* 0 Tw (across LLVM and clang framework:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (CLANG: ) Tj 0 0 .501961 rg (http://releases.llvm.org/4.0.0/tools/clang/docs/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 28.82 Tm .301984 Tw 12 TL /F1 10 Tf 0 0 0 rg (LD-NEW: /doc/ld-new.txt. LD-NEW linker is based on gnu binutils gold linker which aims to be a) Tj T* 0 Tw .79248 Tw (direct replacement for the original binutils ld. Online gold linker documentation currently directs) Tj T* 0 Tw (to the original ld documentation: ) Tj 0 0 .501961 rg (https://sourceware.org/binutils/docs-2.27/ld/index.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (LLVM-AR: ) Tj 0 0 .501961 rg (https://llvm.org/docs/CommandGuide/llvm-ar.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+Q
+q
+1 0 0 1 62.69291 413.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.032209 Tw (The help for command line options for all the tools in the release is also available under /doc directory.) Tj T* 0 Tw (Below information from this point on are specific to the APEX target.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 380.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Bug report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 362.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Bugs should be reported to:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 344.0236 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (https://jira.sw.nxp.com/secure/RapidBoard.jspa?projectKey=CMPAPEX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 311.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Compiler) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+q
+BT 1 0 0 1 0 16.82 Tm .244104 Tw 12 TL /F1 10 Tf 0 0 0 rg (The main part of the compiler is the ) Tj /F3 10 Tf (clang ) Tj /F1 10 Tf (executable located in the ) Tj /F3 10 Tf (bin ) Tj /F1 10 Tf (directory. This executable can) Tj T* 0 Tw (be used to generate both assembly and object files.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 265.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Compiler optimizations are controlled with the ) Tj /F4 10 Tf (-O) Tj (<) Tj (n) Tj (> ) Tj /F2 10 Tf (options.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 172.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 80 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (-O0 ) Tj /F1 10 Tf (will disable optimizations) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (-O3 ) Tj /F1 10 Tf (will enable all optimizations, for speed) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (-O1 ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (-O2 ) Tj /F1 10 Tf (are in between) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (-Os ) Tj /F1 10 Tf (prevents optimizations that can greatly increase the code size) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (-Oz ) Tj /F1 10 Tf (is used to optimize for code size) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 142.0236 cm
+q
+BT 1 0 0 1 0 16.82 Tm 2.110976 Tw 12 TL /F1 10 Tf 0 0 0 rg (A special option for apex, ) Tj /F3 10 Tf (-no-apex-support ) Tj /F1 10 Tf (prevents the ) Tj /F3 10 Tf (apex/apex-support.h ) Tj /F1 10 Tf (header from) Tj T* 0 Tw (being included automatically. Normally, you will not need to use this option.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 124.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (The backend options are passed to llc. If passed from clang, each option must be prefixed by ) Tj /F3 10 Tf (-mllvm) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 118.0236 cm
+Q
+q
+1 0 0 1 62.69291 94.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 16.82 Tm 1.655976 Tw 12 TL /F3 10 Tf 0 0 0 rg (-disable-apex-delay-filler ) Tj /F1 10 Tf (Disable the filling of delay slots with useful instructions. Noops) Tj T* 0 Tw (will be used instead. This option ) Tj /F2 10 Tf (is ) Tj /F1 10 Tf (implicitly activated on ) Tj /F3 10 Tf (-O0) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R45': class PDFStream 
+45 0 obj
+% page stream
+<< /Length 9712 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 711.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+q
+BT 1 0 0 1 0 16.82 Tm 1.152976 Tw 12 TL /F3 10 Tf 0 0 0 rg (-disable-apex-hl ) Tj /F1 10 Tf (Disable the hardware loops generation for APEX. Normal branch instructions) Tj T* 0 Tw (will be used \(j/bnez/beqz\). This option ) Tj /F2 10 Tf (is ) Tj /F1 10 Tf (implicitly activated on ) Tj /F3 10 Tf (-O0) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 16.82 Tm 2.811976 Tw 12 TL /F3 10 Tf 0 0 0 rg (-disable-apex-packetizer2 ) Tj /F1 10 Tf (Disable the instruction packetizer for APEX. This might aid in) Tj T* 0 Tw (debugging. The packetizer is disabled by default at ) Tj /F3 10 Tf (-O0) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (The APEX compiler accepts the following target specific attributes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 108 cm
+q
+BT 1 0 0 1 0 28.82 Tm .189069 Tw 12 TL /F3 10 Tf 0 0 0 rg (__attribute__\(\(loop_free\)\) ) Tj /F1 10 Tf (Marks the functions as not having any hardware loops. The effect) Tj T* 0 Tw 1.751235 Tw (is that hardware loops ) Tj /F2 10 Tf (may ) Tj /F1 10 Tf (be performed across calls to this function. If a function does contain) Tj T* 0 Tw (loops, but is marked with this attribute, the loops are not converted to hardware loops.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 54 cm
+q
+BT 1 0 0 1 0 40.82 Tm .30872 Tw 12 TL /F3 10 Tf 0 0 0 rg (__attribute__\(\(apex_min_loop_count\(n\)\)\) ) Tj /F1 10 Tf (Provides hint of minimum loop iteration count to) Tj T* 0 Tw 2.23936 Tw (the loop optimizer. If loop count is non-zero, this allows the optimizer to remove the initial loop) Tj T* 0 Tw .862927 Tw (counter check which check if the loop should be skipped. This attribute can be used before or after) Tj T* 0 Tw /F3 10 Tf (for ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (while ) Tj /F1 10 Tf (statement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 40.82 Tm .59997 Tw 12 TL /F3 10 Tf 0 0 0 rg (__attribute__\(\(apex_hw_reg\("reg"\)\)\) ) Tj /F1 10 Tf (Provides hint for register allocation to assign specific) Tj T* 0 Tw .705366 Tw (physical register to object. Parameter is a case-insenstive string of any allocatable physical register:) Tj T* 0 Tw 9.039982 Tw (r1-r28, v0-v7 For objects of vec32 type, a register pair can be specified e.g.) Tj T* 0 Tw (__attribute__\(\(apex_hw_reg\("v56"\)\)\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (The following table should be helpful in porting Synopsys extensions to the ) Tj /F2 10 Tf (clang ) Tj /F1 10 Tf (equivalent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+1 1 1 rg
+n 0 246 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 228 469.8898 -18 re f*
+1 1 1 rg
+n 0 210 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 192 469.8898 -42 re f*
+1 1 1 rg
+n 0 150 469.8898 -78 re f*
+.878431 .878431 .878431 rg
+n 0 72 469.8898 -18 re f*
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 246 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 231 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 136.3862 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 46.51812 0 Td (Synopsys) Tj T* -46.51812 0 Td ET
+Q
+Q
+q
+1 0 0 1 154.3862 231 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 309.5035 12 re f*
+Q
+q
+BT 1 0 0 1 0 4.82 Tm 117.5118 0 Td 12 TL /F2 10 Tf 0 0 0 rg (clang ) Tj /F1 10 Tf (equivalent) Tj T* -117.5118 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (property\(loop_free\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (__attribute__\(\(loop_free\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (property\(never_returns\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (__attribute__\(\(noreturn\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (property\(functional\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 183 cm
+Q
+q
+1 0 0 1 154.3862 171 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (__declspec\(noalias\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 165 cm
+Q
+q
+1 0 0 1 154.3862 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 5 4.82 Tm /F1 10 Tf 12 TL (Requires -fms-compatibility option) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 153 cm
+Q
+q
+1 0 0 1 154.3862 153 cm
+Q
+q
+1 0 0 1 6 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (chess_storage\(%16\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 141 cm
+Q
+q
+1 0 0 1 154.3862 129 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (__attribute__\(\(aligned\(16\)\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 123 cm
+Q
+q
+1 0 0 1 154.3862 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 5 4.82 Tm /F1 10 Tf 12 TL (For vector objects, the alignment parameter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 5 4.82 Tm /F1 10 Tf 12 TL (must be specified in vec-byte unit. The default) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 5 4.82 Tm /F1 10 Tf 12 TL (natural alignment for vec08,vec16,vec32 are) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 5 4.82 Tm /F1 10 Tf 12 TL (1,2,4 vec-byte respectively.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 75 cm
+Q
+q
+1 0 0 1 154.3862 75 cm
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (chess_loop_range\(...\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (__attribute__\(\(apex_min_loop_count\(n\)\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (chess_unroll_loop\(x\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (#pragma unroll\(x\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (chess_frequent_then) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (__builtin_expect\(x, 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (chess_frequent_else) Tj T* ET
+Q
+Q
+q
+1 0 0 1 154.3862 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (__builtin_expect\(x, 0\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 228 m 469.8898 228 l S
+n 0 210 m 469.8898 210 l S
+n 0 192 m 469.8898 192 l S
+n 0 150 m 469.8898 150 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 148.3862 0 m 148.3862 246 l S
+n 0 246 m 469.8898 246 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 246 l S
+n 469.8898 0 m 469.8898 246 l S
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+Q
+q
+1 0 0 1 62.69291 257.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Predefined macros) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 50 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 16.82 Tm 7.95122 Tw 12 TL /F1 10 Tf 0 0 0 rg (The compiler provides ) Tj /F2 10 Tf (__APEX__) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (__NXP__) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (__LLVM_APEX__ ) Tj /F1 10 Tf (when targetting Apex.) Tj T* 0 Tw /F2 10 Tf (__LLVM_APEX_VERSION__ ) Tj /F1 10 Tf (contains the tool's build number.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 28.82 Tm .111163 Tw 12 TL /F1 10 Tf 0 0 0 rg (A global unsigned int ) Tj /F2 10 Tf (__vecsize ) Tj /F1 10 Tf (is used to identify the current number of CU controlled by each ACP.) Tj T* 0 Tw 2.007126 Tw (The default is 32. User can query at runtime using the ) Tj /F3 10 Tf (apuGetNumberOfCUs\(\) ) Tj /F1 10 Tf (API which will) Tj T* 0 Tw (updates ) Tj /F2 10 Tf (__vecsize ) Tj /F1 10 Tf (as it is configured.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 178.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (ISO C/C++ standard compliance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 88.15748 Tm  T* ET
+q
+1 0 0 1 20 50.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL 2.039269 Tw (The default language standard used for compiling C and C++ sources are gnu11 and gnucxx98) Tj T* 0 Tw .215697 Tw (respectively. This mean GNU language extension are turned on by default. In particular, the following) Tj T* 0 Tw .641235 Tw (non-standard C library functions, which are part of POSIX APIs, are treated as library builtins by the) Tj T* 0 Tw (frontend:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 44.15748 cm
+Q
+q
+1 0 0 1 20 2.15748 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 24 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (alloca) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (stpcpy) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (stpncpy) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R46': class PDFStream 
+46 0 obj
+% page stream
+<< /Length 9594 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 594.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 158 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (strdup) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (strndup) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (index) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (rindex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (bzero) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (strcasecmp) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (strncasecmp) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (_exit) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (_longjmp) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (siglongjmp) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (strlcpy) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (strlcat) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 24 cm
+q
+BT 1 0 0 1 0 16.82 Tm .351318 Tw 12 TL /F1 10 Tf 0 0 0 rg (User can specify other language standard using ) Tj /F3 10 Tf (-std ) Tj /F1 10 Tf (option. If strict ANSI C compliance is desired,) Tj T* 0 Tw /F3 10 Tf (-ansi ) Tj /F1 10 Tf (or ) Tj /F3 10 Tf (-pedantic ) Tj /F1 10 Tf (option should be used.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 16.82 Tm 17.31775 Tw 12 TL /F1 10 Tf 0 0 0 rg (For other language extensions support by CLANG, please refer to:) Tj T* 0 Tw 0 0 .501961 rg (http://releases.llvm.org/4.0.0/tools/clang/docs/LanguageExtensions.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Linker) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 64.82 Tm 3.98311 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (gold ) Tj /F1 10 Tf (linker is provided and can be found in the ) Tj /F3 10 Tf (bin ) Tj /F1 10 Tf (directory under the name ) Tj /F3 10 Tf (ld-new) Tj T* 0 Tw .131318 Tw /F1 10 Tf (\() Tj /F3 10 Tf (ld-new.exe ) Tj /F1 10 Tf (for Windows builds\). Please see example below for linking with ) Tj /F2 10 Tf (gold ) Tj /F1 10 Tf (using the provided lcf.) Tj T* 0 Tw 2.360697 Tw (The option --skip-shdrs will discard all section headers except debug sections header from the final) Tj T* 0 Tw .67561 Tw (executable which is required to load with the Synopsys simulator. Please link with libhosted.a in order to) Tj T* 0 Tw 1.011412 Tw (use hosted IO functionality. Currently simulator built with Synopsys checker version 15.2.29 or newer is) Tj T* 0 Tw (required in order for the simulator to parse the hosted IO info properly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (If the linker is invoked manually \(i.e. not through clang\) it will require some options.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (-L) Tj (<) Tj (LIB_DIR) Tj (> ) Tj /F1 10 Tf (is the location where the library archives \(the ) Tj /F3 10 Tf (lib-apex ) Tj /F1 10 Tf (directory\) are located.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (-l) Tj (<) Tj (lib) Tj (> ) Tj /F1 10 Tf (must be given for each required library.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (-T <) Tj (SCRIPT_FILE) Tj (> ) Tj /F1 10 Tf (specifies the linker script file, which describes the layout.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (--skip-shdrs ) Tj /F1 10 Tf (must be given in order for the generated file to be parsed by the simulator.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+BT 1 0 0 1 0 16.82 Tm .408221 Tw 12 TL /F1 10 Tf 0 0 0 rg (The libraries specified with the ) Tj /F3 10 Tf (-l ) Tj /F1 10 Tf (options are the files located in ) Tj /F3 10 Tf (lib-apex) Tj /F1 10 Tf (, without the ) Tj /F3 10 Tf (lib ) Tj /F1 10 Tf (prefix and) Tj T* 0 Tw (the ) Tj /F3 10 Tf (.a ) Tj /F1 10 Tf (suffix. For example, ) Tj /F3 10 Tf (libc.a ) Tj /F1 10 Tf (is linked by using ) Tj /F3 10 Tf (-lc) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+q
+BT 1 0 0 1 0 52.82 Tm .483988 Tw 12 TL /F2 10 Tf 0 0 0 rg (Libraries link order ) Tj /F1 10 Tf (Similar to gnu ld, the ) Tj /F2 10 Tf (gold ) Tj /F1 10 Tf (linker by default do a single pass through the list of input) Tj T* 0 Tw .157485 Tw (libraries to resolve symbols for efficient memory usage, this implies that the input library order is important) Tj T* 0 Tw .315318 Tw (and listing the same library multiple times might be needed to resolve cyclic dependencies. For simplicity,) Tj T* 0 Tw .84936 Tw (it is recommended to use the --start-group and --end-group options so the linker would do multiple pass) Tj T* 0 Tw (over the group for all unresolved symbols before issuing undefined symbol error.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 197.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 65.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# link multiple objects) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ld-new -L) Tj .729412 .129412 .129412 rg ("/opt/apex-cpl/lib-apex/") Tj 0 0 0 rg ( ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (        -T ) Tj .729412 .129412 .129412 rg ("/opt/apex-cpl/support/APU2.lcf") Tj 0 0 0 rg ( ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (        -o output a.o b.o c.o --start-group ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (        -lc -lm -lrt -lhosted -lstartc --end-group ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (        --skip-shdrs) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 165.8236 cm
+q
+BT 1 0 0 1 0 16.82 Tm 1.552651 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf (bridge ) Tj /F1 10 Tf (linker from Synopsys can also be used. See ) Tj 0 0 .501961 rg (Examples ) Tj 0 0 0 rg (for typical bridge link command.) Tj T* 0 Tw (Please refer to Synopsys documentation for detailed linker usage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.8236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Libraries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 114.8236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (The compiler comes with the ) Tj /F2 10 Tf (Embedded Warrior Library 2 ) Tj /F1 10 Tf (compiled for apex.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 84.82362 cm
+q
+BT 1 0 0 1 0 16.82 Tm .303828 Tw 12 TL /F1 10 Tf 0 0 0 rg (The default include directory for the headers is ) Tj /F3 10 Tf ("../include/ewl2") Tj /F1 10 Tf (, relative to the ) Tj /F3 10 Tf (clang ) Tj /F1 10 Tf (executable.) Tj T* 0 Tw (In order to override this, you can use the EWL2_INCLUDE environment variable.) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R47': class PDFStream 
+47 0 obj
+% page stream
+<< /Length 10482 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# override the default header location) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (export ) Tj .098039 .090196 .486275 rg (EWL2_INCLUDE) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("/opt/apex-cpl/include/ewl2") Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 695.8236 cm
+q
+BT 1 0 0 1 0 16.82 Tm .134269 Tw 12 TL /F1 10 Tf 0 0 0 rg (The apex library archives are located in the ) Tj /F3 10 Tf (lib-apex ) Tj /F1 10 Tf (directory. They are ) Tj /F3 10 Tf (libc.a) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (libc99.a) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (libm.a) Tj /F1 10 Tf (,) Tj T* 0 Tw /F3 10 Tf (librt.a) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (libhosted.a) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (libhosted_syn.a) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (libstartc.a ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (libstartcpp.a) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 689.8236 cm
+Q
+q
+1 0 0 1 62.69291 545.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (libc.a : Size-optimized C Library) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (libc99.a : Full C99 compliant C Library) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (libm.a : Math library from Sun implementation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (librt.a : Runtime library includes compiler runtime support) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (libhosted.a : Hosted IO library to be used with gold linker) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (libhosted_syn.a : Hosted IO library to be used with Synopsys bridge linker) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (libstartc.a : Library that contains the startup routines for the C language) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (libstartcpp.a : Library that contains the startup routines for the CPP language) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 545.8236 cm
+Q
+q
+1 0 0 1 62.69291 527.8236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (These libraries are created using ) Tj /F3 10 Tf (llvm-ar) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.8236 cm
+q
+BT 1 0 0 1 0 16.82 Tm 1.41498 Tw 12 TL /F2 10 Tf 0 0 0 rg (Library for Instrumentation ) Tj /F1 10 Tf (The apex library archives includes libraries to enable instrumentation like) Tj T* 0 Tw (code coverage and profiling. They are ) Tj /F3 10 Tf (libprofile.a) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (libstart_lprof.a ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (libstart_gcov.a) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 491.8236 cm
+Q
+q
+1 0 0 1 62.69291 413.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (libprofile.a : Library that containe routines that aid instrumentation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .121647 Tw (libstart_lprof.a : Library that contains the startup routines for LLVM's source-based code profiling) Tj T* 0 Tw (support) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.44816 Tw (libstart_gcov.a : Library that contains the startup routines for LLVM's GCC-compatible source) Tj T* 0 Tw (based coverage support) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 413.8236 cm
+Q
+q
+1 0 0 1 62.69291 395.8236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (These libraries are created using ) Tj /F3 10 Tf (llvm-ar) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 317.8236 cm
+q
+BT 1 0 0 1 0 64.82 Tm 12.70098 Tw 12 TL /F2 10 Tf 0 0 0 rg (Vector Types and Intrinsics ) Tj /F1 10 Tf (User-level APEX vector intrinsics in available in) Tj T* 0 Tw 17.81425 Tw /F3 10 Tf ("include/ewl2/intrinsics.hpp") Tj /F1 10 Tf (. Basic vector types are also defined in) Tj T* 0 Tw 23.09996 Tw /F3 10 Tf ("include/ewl2/vector-types.h") Tj /F1 10 Tf (. This header is already included by) Tj T* 0 Tw 5.911976 Tw /F3 10 Tf ("include/ewl2/intrinsics.hpp") Tj /F1 10 Tf (. You ) Tj /F2 10 Tf (do not ) Tj /F1 10 Tf (need to include these files under normal) Tj T* 0 Tw 6.426651 Tw (circumstances. You may need to include one or more of them if you compile with the) Tj T* 0 Tw /F3 10 Tf (-no-apex-support ) Tj /F1 10 Tf (option.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 299.8236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Support Files ) Tj /F1 10 Tf (The ) Tj /F3 10 Tf (support/ ) Tj /F1 10 Tf (folder provides the following files to support building an application:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 293.8236 cm
+Q
+q
+1 0 0 1 62.69291 131.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 156 cm
+Q
+q
+1 0 0 1 20 144 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (S32V_APEX.lcf : gnu linker script when building for S32V board) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (APU2.lcf : gnu linker script to be used with ) Tj /F3 10 Tf (gold ) Tj /F1 10 Tf (linker) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 108 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (APU2.bcf : linker script to be used with Synopsys ) Tj /F3 10 Tf (bridge ) Tj /F1 10 Tf (linker) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 78 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 16.82 Tm 4.107251 Tw 12 TL /F1 10 Tf 0 0 0 rg (startup.s : default startup code which implements the ) Tj /F3 10 Tf (__main_fsl ) Tj /F1 10 Tf (entry function and) Tj T* 0 Tw /F3 10 Tf (__exit_fsl ) Tj /F1 10 Tf (exit function) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (startup_cpp.s : the default startup code, adjusted for C++) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 5.871976 Tw (startup_lprof.s : default startup code which implements the initializations for LLVM's) Tj T* 0 Tw (source-based code profiling support) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 5.704976 Tw (startup_gcov.s : default startup code which implements the initializations for LLVM's) Tj T* 0 Tw (GCC-compatible source based coverage support) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 131.8236 cm
+Q
+ 
+endstream
+
+endobj
+% 'R48': class PDFStream 
+48 0 obj
+% page stream
+<< /Length 6337 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Assembler) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 16.82 Tm .191647 Tw 12 TL /F1 10 Tf 0 0 0 rg (A standalone assembler is available in ) Tj /F3 10 Tf ("bin/llvm-mc") Tj /F1 10 Tf (. It supports GNU assembly syntax. Alternatively,) Tj T* 0 Tw /F3 10 Tf (clang ) Tj /F1 10 Tf (can also be used to assemble a file. To assemble a ) Tj /F3 10 Tf (.s ) Tj /F1 10 Tf (file:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 668.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( llvm-mc -filetype) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (obj main.s -o main.o) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( clang main.s -o main.o) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 648.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (When using inline asm, the following constraints are supported:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.8236 cm
+Q
+q
+1 0 0 1 62.69291 588.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL ("r", Rn register, used for scalars and pointers) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL ("v", Vn register, used for vector types, except vbool) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL ("b", VCn register, used for vector conditions) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 588.8236 cm
+Q
+q
+1 0 0 1 62.69291 570.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (APEX specific assembler directive:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.8236 cm
+Q
+q
+1 0 0 1 62.69291 528.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (.vliw_start) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (.vliw_end) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 528.8236 cm
+Q
+q
+1 0 0 1 62.69291 474.8236 cm
+q
+BT 1 0 0 1 0 40.82 Tm .497318 Tw 12 TL /F1 10 Tf 0 0 0 rg (The assembler will try to encode the instructions between the ) Tj /F2 10 Tf (.vliw_start ) Tj /F1 10 Tf (and ) Tj /F2 10 Tf (.vliw_end ) Tj /F1 10 Tf (directive into an) Tj T* 0 Tw 1.80284 Tw (32-bit or 64-bit instruction bundle. The instruction between these directives are executed in the same) Tj T* 0 Tw .345988 Tw (cycle. If no valid encoding is found, it will return an error The instructions must be in order and nops must) Tj T* 0 Tw (be included if not all functional units are used.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 53.71 Tm /F3 10 Tf 12 TL (.vliw_start) Tj T* (  or r1, r0, r0) Tj T* (  vadd v0, v0, v7) Tj T* (  vsll v1, v6, v7) Tj T* (.vliw_end) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 360.6236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Disassembler) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.6236 cm
+q
+BT 1 0 0 1 0 16.82 Tm .484269 Tw 12 TL /F1 10 Tf 0 0 0 rg (There are two alternatives for the disassembler. The first one is ) Tj /F3 10 Tf ("bin/llvm-objdump") Tj /F1 10 Tf (, which is similar) Tj T* 0 Tw (to ) Tj /F3 10 Tf (GNU objdump) Tj /F1 10 Tf (. This can disassemble an elf file:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 156 re B*
+Q
+q
+BT 1 0 0 1 0 137.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( cat a.c) Tj T* .501961 .501961 .501961 rg (int main\(\) {) Tj T* (  return 0;) Tj T* (}) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( clang a.c -O3 -o a.o -c) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( llvm-objdump -disassemble -triple) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (apex a.o) Tj T* .501961 .501961 .501961 rg (a.o:    file format ELF32-unknown) Tj T* (Disassembly of section .text:) Tj T* (main:) Tj T* (       0:       17 d0 00 00                               jr r29) Tj T* (       4:       00 00 00 00                               nop) Tj T* (       8:       00 10 01 0d                               or r1, r0, r0) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 145.4236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (The second option is to use ) Tj /F3 10 Tf ("bin/llvm-mc") Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 88.22362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (echo) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("0 0 0 0") Tj 0 0 0 rg ( | llvm-mc -disassemble) Tj T* .501961 .501961 .501961 rg (     .text) Tj T* (     nop) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R49': class PDFStream 
+49 0 obj
+% page stream
+<< /Length 7702 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 679.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 65.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (echo) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("0x17 0xd0 0x0 0x0") Tj 0 0 0 rg ( | llvm-mc -disassemble) Tj T* .501961 .501961 .501961 rg (     .text) Tj T* (     jr r29) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (echo) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("[0x00,0x10,0x01,0x0d]") Tj 0 0 0 rg ( | llvm-mc -disassemble -show-encoding) Tj T* .501961 .501961 .501961 rg (     .text) Tj T* (     or r1, r0, r0                   ; encoding: [0x00,0x10,0x01,0x0d]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 659.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Diassembly of a bundled instructions will appear between .vliw_start and .vliw_end directive.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 626.8236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (ABI and programming model compatibility) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 596.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F2 10 Tf 12 TL (The LLVM compiler implements the ABI and programming model specified in the following) Tj T* (documents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (HDD-10294-15-01_APEX2_Application_Binary_Interface) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (UG-10310-00-05-APU-2_C_Programmer_Guide) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 541.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (with exceptions as follow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 430.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 98 Tm  T* ET
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 102 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Explicit cast is required for vector operations between different types and/or signedness.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.73686 Tw (When casting vector to a bigger storage, sign extension is based on the type of the source) Tj T* 0 Tw (vector.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .892651 Tw (Scalar operations from a bigger type to a smaller type results in an implicit truncate operation.) Tj T* 0 Tw (To enable warning this for, use the -Wconversion compile option) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 3.15248 Tw (Vector control flow language extension: currently vector predication in for and while loop) Tj T* 0 Tw (condition is not supported.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 397.8236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Instrumentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 367.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.838443 Tw (There are two alternatives for generating instrumentation. The first one is LLVM's source-based code) Tj T* 0 Tw (profiling support.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 313.8236 cm
+q
+BT 1 0 0 1 0 40.82 Tm 12.51997 Tw 12 TL /F1 10 Tf 0 0 0 rg (In order to enable this compile with the option ) Tj /F3 10 Tf ("-fprofile-instr-generate) Tj T* 0 Tw 1.455318 Tw (-fcoverage-mapping" ) Tj /F1 10 Tf (Two types of elf needs to be generated for this method. This is because for) Tj T* 0 Tw 2.286136 Tw (Synopsys simulator section headers should be stripped while for llvm profiling tools section headers) Tj T* 0 Tw (should be generated. This is contolled by ) Tj /F3 10 Tf ("--skip-shdrs" ) Tj /F1 10 Tf (option to the linker.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 163.6467 cm
+q
+q
+.840289 0 0 .840289 0 0 cm
+q
+1 0 0 1 6.6 7.854438 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 558 168 re B*
+Q
+q
+BT 1 0 0 1 0 149.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( cat main.c) Tj T* .501961 .501961 .501961 rg (int main \(\) {) Tj T* (  return 0;) Tj T* (}) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( clang main.c -fprofile-instr-generate -fcoverage-mapping -o main.out) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Run the instrumented elf generated without section headers to generate raw profile data) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( simulator main.out) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Generate elf with section headers) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Use -v option from 1st step and remove --skip-shdrs from the options) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ld-new.exe -o main.elf -T path_to_APU2.lcf ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (        --start-group main.o -L path_to_) Tj .4 .4 .4 rg (\() Tj 0 0 0 rg (bin/../lib-apex/) Tj .4 .4 .4 rg (\)) Tj 0 0 0 rg ( ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (        -lc -lm -lrt -lhosted -lprofile -lstart_lprof ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (        --end-group --gc-sections) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 82.44668 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 53.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Combine multiple raw profiles and index them) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( llvm-profdata.exe merge -o test.profdata default.profraw) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Generate a line-oriented coverage report) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( llvm-cov.exe show main.elf -instr-profile) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (test.profdata main.c) Tj T* .501961 .501961 .501961 rg (    1|      1|int main \(\) {) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R50': class PDFStream 
+50 0 obj
+% page stream
+<< /Length 4832 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .501961 .501961 .501961 rg (    2|      1|  return 0;) Tj T* (    3|      1|}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 611.8439 cm
+q
+q
+.988825 0 0 .988825 0 0 cm
+q
+1 0 0 1 6.6 6.674587 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 474 108 re B*
+Q
+q
+BT 1 0 0 1 0 89.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Generate a file-level summary of coverage) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( llvm-cov.exe report main.elf -instr-profile) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (test.profdata main.c) Tj T* .501961 .501961 .501961 rg (File 'main.c':) Tj T* (Name                        Regions    Miss   Cover     Lines    Miss   Cover) Tj T* (-----------------------------------------------------------------------------) Tj T* (main                              1       0 100.00%         3       0 100.00%) Tj T* (-----------------------------------------------------------------------------) Tj T* (TOTAL                             1       0 100.00%         3       0 100.00%) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 543.8439 cm
+q
+BT 1 0 0 1 0 52.82 Tm .091318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please note that even-though this method is primarily used for Profile Guided Optimisation \(PGO\), PGO is) Tj T* 0 Tw .371751 Tw (not tested on APEX. Since APEX is a bare metal target without any OS support some options associated) Tj T* 0 Tw 6.869984 Tw (with this method is not available. Specifying the path to wite the raw profile data via) Tj T* 0 Tw .523314 Tw /F3 10 Tf ("LLVM_PROFILE_FILE" ) Tj /F1 10 Tf (environment variable, specifying the name of the raw profile data using pattern) Tj T* 0 Tw (strings are examples of the un-supported options.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.8439 cm
+q
+BT 1 0 0 1 0 52.82 Tm .238555 Tw 12 TL /F1 10 Tf 0 0 0 rg (The second method is LLVM's GCC-compatible source based coverage support. For this method build an) Tj T* 0 Tw 5.91747 Tw (instrumented version of the application with ) Tj /F3 10 Tf ("-fprofile-arcs -ftest-coverage" ) Tj /F1 10 Tf (option.) Tj T* 0 Tw 3.846647 Tw (\(Alternatively, ) Tj /F3 10 Tf ("--coverage" ) Tj /F1 10 Tf (option can be used, which includes both of those other options.\)) Tj T* 0 Tw 2.782706 Tw (Application should be compiled with debugging information ) Tj /F3 10 Tf ("-g" ) Tj /F1 10 Tf (and without optimization ) Tj /F3 10 Tf ("-O0") Tj /F1 10 Tf (".) Tj T* 0 Tw (Otherwise, the coverage data cannot be accurately mapped back to the source code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.6439 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 300 re B*
+Q
+q
+BT 1 0 0 1 0 281.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( cat main.c) Tj T* .501961 .501961 .501961 rg (int main \(\) {) Tj T* (  return 0;) Tj T* (}) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( clang main.c --coverage -g -o main.out) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Run the instrumented elf) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( simulator main.out) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( llvm-cov.exe gcov main.elf main.c) Tj T* .501961 .501961 .501961 rg (File 'main.c') Tj T* (Lines executed:100.00% of 1) Tj T* (main.c:creating 'main.c.gcov') Tj T*  T* (File 'main.c') Tj T* (Lines executed:100.00% of 1) Tj T* (main.c:creating 'main.c.gcov') Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( cat main.c.gcov) Tj T* .501961 .501961 .501961 rg (        -:    0:Source:main.c) Tj T* (        -:    0:Graph:main.gcno) Tj T* (        -:    0:Data:main.gcda) Tj T* (        -:    0:Runs:1) Tj T* (        -:    0:Programs:1) Tj T* (        -:    1:int main \(\) {) Tj T* (        1:    2:  return 0;) Tj T* (        -:    3:}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 135.6439 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (License Check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 93.6439 cm
+q
+BT 1 0 0 1 0 28.82 Tm .92061 Tw 12 TL /F1 10 Tf 0 0 0 rg (The compiler will check for valid Flex license through the use of Flexera plugins. These shared libraries) Tj T* 0 Tw 1.149987 Tw (are located in ) Tj /F3 10 Tf ("/lib" ) Tj /F1 10 Tf (for Linux and ) Tj /F3 10 Tf ("/bin" ) Tj /F1 10 Tf (for Windows build. On Linux, please add the lib path to) Tj T* 0 Tw (LD_LIBRARY_PATH so the loader could locate these libraries sucessfully.) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R51': class PDFStream 
+51 0 obj
+% page stream
+<< /Length 7377 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Examples) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Clang examples) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 608.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 108 re B*
+Q
+q
+BT 1 0 0 1 0 89.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Single C file to elf) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( clang -Os -c file.c -o file.o) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Single C file to assembly) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( clang -Os -c file.c -S -o file.s) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Multiple C files to elf) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( clang -Os -c file1.c file2.c file3.c ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# creates file1.o file2.o file3.o) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# Make an executable file) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( clang -Os -o elf file.c) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 503.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 96 re B*
+Q
+q
+BT 1 0 0 1 0 77.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# link using clang) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( clang -o main.elf main.o) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# link using gold linker) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ld-new -o main.elf main.o -L ) Tj /F4 10 Tf 0 .501961 0 rg (${) Tj /F3 10 Tf .098039 .090196 .486275 rg (EWL2_LIBS) Tj /F4 10 Tf 0 .501961 0 rg (}) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (   -T ) Tj /F4 10 Tf 0 .501961 0 rg (${) Tj /F3 10 Tf .098039 .090196 .486275 rg (EWL2_LIBS) Tj /F4 10 Tf 0 .501961 0 rg (}) Tj /F3 10 Tf 0 0 0 rg (/../support/APU2.lcf ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (   --start-group -lc -lm -lrt -lhosted -lstartc --end-group ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (   --skip-shdrs) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 350.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 144 re B*
+Q
+q
+BT 1 0 0 1 0 125.71 Tm 12 TL /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (# link using synopsys linker) Tj T* /F4 10 Tf 0 0 .501961 rg ($) Tj /F3 10 Tf 0 0 0 rg ( bridge -B -g ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (  -I) Tj /F4 10 Tf 0 .501961 0 rg (${) Tj /F3 10 Tf .098039 .090196 .486275 rg (synopsys_install) Tj /F4 10 Tf 0 .501961 0 rg (}) Tj /F3 10 Tf 0 0 0 rg (/designs/APU2/lib/base ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (  -I) Tj /F4 10 Tf 0 .501961 0 rg (${) Tj /F3 10 Tf .098039 .090196 .486275 rg (synopsys_install) Tj /F4 10 Tf 0 .501961 0 rg (}) Tj /F3 10 Tf 0 0 0 rg (/designs/APU2/lib/base/isg ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (  -I) Tj /F4 10 Tf 0 .501961 0 rg (${) Tj /F3 10 Tf .098039 .090196 .486275 rg (synopsys_install) Tj /F4 10 Tf 0 .501961 0 rg (}) Tj /F3 10 Tf 0 0 0 rg (/designs/APU2/inc ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (  -I) Tj /F4 10 Tf 0 .501961 0 rg (${) Tj /F3 10 Tf .098039 .090196 .486275 rg (synopsys_install) Tj /F4 10 Tf 0 .501961 0 rg (}) Tj /F3 10 Tf 0 0 0 rg (/designs/APU2/iss/inc ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (  -I) Tj /F4 10 Tf 0 .501961 0 rg (${) Tj /F3 10 Tf .098039 .090196 .486275 rg (synopsys_install) Tj /F4 10 Tf 0 .501961 0 rg (}) Tj /F3 10 Tf 0 0 0 rg (/designs/APU2/lib/ ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (  -c) Tj /F4 10 Tf 0 .501961 0 rg (${) Tj /F3 10 Tf .098039 .090196 .486275 rg (apex_llvm_install) Tj /F4 10 Tf 0 .501961 0 rg (}) Tj /F3 10 Tf 0 0 0 rg (/support/APU2.bcf ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (  -DAPU_VSIZE) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (32 -D__tct_patch__) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (09 ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (  -L) Tj /F4 10 Tf 0 .501961 0 rg (${) Tj /F3 10 Tf .098039 .090196 .486275 rg (apex_llvm_install) Tj /F4 10 Tf 0 .501961 0 rg (}) Tj /F3 10 Tf 0 0 0 rg (/lib -lc -lm -lrt -lhosted_syn -lstartc -pAPU2 ) Tj /F4 10 Tf .733333 .4 .133333 rg (\\) Tj T* 0 0 .501961 rg (>) Tj /F3 10 Tf 0 0 0 rg (  main.o -o main.elf) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 317.4236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tips and tricks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 287.4236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (Delay slots) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 245.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .43186 Tw (When using assembly files as input \(not generated by the compiler\), you should be careful of instructions) Tj T* 0 Tw 1.417882 Tw (with delay slots. Instructions may have 0, 1 or 2 delay slots. An instruction with 2 delay slots will also) Tj T* 0 Tw (execute the following 2 instructions before jumping to the destination.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .07104 Tw (The symbol at which an instruction jumps may be affected by the size of the instructions in the delay slots.) Tj T* 0 Tw (The following restrictions apply.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 149.4236 cm
+q
+BT 1 0 0 1 0 52.82 Tm 1.400697 Tw 12 TL /F2 10 Tf 0 0 0 rg (Conditional branch) Tj /F1 10 Tf (. There are 2 conditional branch instructions: ) Tj /F3 10 Tf (BNEZ ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (BEQZ) Tj /F1 10 Tf (. Both have 2 delay) Tj T* 0 Tw 1.211567 Tw (slots. These instructions will have an addend of 0 when the instruction in the first delay slot is a 32-bit) Tj T* 0 Tw .066488 Tw (instruction. If the instruction in the first delay slot is a 64-bit instruction, the addend should be -4 in order to) Tj T* 0 Tw 1.193735 Tw (compensate for the extra 32-bits. The instruction in the second delay slot does not affect these branch) Tj T* 0 Tw (instructions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 80.22362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 41.71 Tm /F3 10 Tf 12 TL (f:                                   ; @f) Tj T* (     neg r1, r7) Tj T* ($BB0_1:) Tj T* (     addi r1, r1, #1) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R52': class PDFStream 
+52 0 obj
+% page stream
+<< /Length 7433 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 655.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 108 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 89.71 Tm /F3 10 Tf 12 TL (     sne r7, r1, r0) Tj T* (     bnez r7, #\($BB0_1\)-4) Tj T* (     xor r6 : r5, r6 : r5, r0 : r0   ; delay slot 1) Tj T* (     xor r4 : r3, r4 : r3, r6 : r5   ; delay slot 2) Tj T* (; BB#2:) Tj T* (     jr r29) Tj T* (     or r1, r3, r3                   ; delay slot 1) Tj T* (     or r2, r4, r4                   ; delay slot 2) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 563.8236 cm
+q
+BT 1 0 0 1 0 76.82 Tm 1.586235 Tw 12 TL /F2 10 Tf 0 0 0 rg (Hardware loops) Tj /F1 10 Tf (. There are 2 hardware loops instructions: ) Tj /F3 10 Tf (DO ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (DOI) Tj /F1 10 Tf (, both with 2 delay slots. The) Tj T* 0 Tw .862339 Tw (symbol operand of the loop instructions represent the loop end \(i.e. the block that will be executed after) Tj T* 0 Tw 2.010697 Tw (the loop finishes\). The hardware loop consists of all the instructions between the ) Tj /F3 10 Tf (DO) Tj /F1 10 Tf (/) Tj /F3 10 Tf (DOI ) Tj /F1 10 Tf (instruction) Tj T* 0 Tw 2.088409 Tw (\(excluding the delay slots\) and the loop end label. If the instruction in the first delay slot is a 64-bit) Tj T* 0 Tw 1.352927 Tw (instruction, the addend should be -4 in order to compensate for the extra 32bits. Similar to the branch) Tj T* 0 Tw 2.789986 Tw (instructions, the second delay slot does not affect the addend. If you do not want to perform this) Tj T* 0 Tw (optimization on a particular function, you can use the ''loop_free'' attribute.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 533.8236 cm
+q
+BT 1 0 0 1 0 16.82 Tm .313318 Tw 12 TL /F2 10 Tf 0 0 0 rg (Debug information) Tj /F1 10 Tf (. Using -g option will enable debug info generation. By default dwarf2 debug format is) Tj T* 0 Tw (generated. This debug info is compatible with Lauterbach debugger release after 09/01/2016.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 515.8236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Vector casts ) Tj /F1 10 Tf (Casts between vectors of different integer sizes work, but they must be explicit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 470.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj (v16a) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (\() Tj (vec16s) Tj (\)) Tj (v8) Tj (;) Tj ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (// C-style cast -) Tj (>) Tj ( works) Tj T* /F3 10 Tf 0 0 0 rg (vec16s) Tj ( ) Tj (v16b) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (vec16s) Tj (\() Tj (v8) Tj (\);) Tj ( ) Tj /F5 10 Tf .25098 .501961 .501961 rg (// C++-style cast -) Tj (>) Tj ( works) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 414.6236 cm
+q
+BT 1 0 0 1 0 40.82 Tm 4.005814 Tw 12 TL /F2 10 Tf 0 0 0 rg (LLVM auto-vectorizer ) Tj /F1 10 Tf (Auto-vectorization of scalar loop requires movement of data to and from) Tj T* 0 Tw .350651 Tw (CMEM/DMEM which is not yet supported. To avoid this problem, auto vectorization has been disabled by) Tj T* 0 Tw 9.274976 Tw (default currently. To enable explicitly, please add the compile options ) Tj /F3 10 Tf (-fvectorize) Tj T* 0 Tw (-fslp-vectorize) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 360.6236 cm
+q
+BT 1 0 0 1 0 40.82 Tm .069488 Tw 12 TL /F2 10 Tf 0 0 0 rg (Flush on exit ) Tj /F1 10 Tf (In order to dump all the IO, a call to ) Tj /F3 10 Tf (fflush\(stdout\) ) Tj /F1 10 Tf (is added after the ) Tj /F3 10 Tf (main ) Tj /F1 10 Tf (function is) Tj T* 0 Tw .277633 Tw (called. This call is also reached from the ) Tj /F3 10 Tf (exit ) Tj /F1 10 Tf (function. The ) Tj /F3 10 Tf (startup.s ) Tj /F1 10 Tf (file contains this code and can) Tj T* 0 Tw .111751 Tw (be modified & linked with the application to override the default startup. To exclude the startup library from) Tj T* 0 Tw (the default libraries list, you can pass the ) Tj /F3 10 Tf (-nostartfiles ) Tj /F1 10 Tf (option to ) Tj /F3 10 Tf (clang) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.6236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Known issues) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.6236 cm
+q
+BT 1 0 0 1 0 28.82 Tm .980651 Tw 12 TL /F2 10 Tf 0 0 0 rg (Time and Clock support ) Tj /F1 10 Tf (The standard library time and clock functionality and types are not supported) Tj T* 0 Tw .95311 Tw (under Apex. APEX kernel timing is done from the ARM host immediately before and after APEX device) Tj T* 0 Tw (invocation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 267.6236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (C99 variable length array ) Tj /F1 10 Tf (Use of C99 feature variable length array not currently supported) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.6236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (C99 complex type ) Tj /F1 10 Tf (Use of C99 complex types and library functions are not currently supported) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 207.6236 cm
+q
+BT 1 0 0 1 0 28.82 Tm 4.379982 Tw 12 TL /F2 10 Tf 0 0 0 rg (Instrumentation ) Tj /F1 10 Tf (Profiling and coverage support does not work in Linux environment due to a) Tj T* 0 Tw 1.297674 Tw (bug/limitation of the Synopsys simulator. Till version ) Tj /F3 10 Tf ("L-2016.09-2" ) Tj /F1 10 Tf (hosted file i/o support is limited) Tj T* 0 Tw (becasue of which library calls like ) Tj /F3 10 Tf ("fopen" ) Tj /F1 10 Tf (fails in Linux enviornment. No workaround is know as of now.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 174.6236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Build version) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.6236 cm
+Q
+q
+1 0 0 1 62.69291 90.62362 cm
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 72 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 182.2211 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 65.26555 0 Td (Component) Tj T* -65.26555 0 Td ET
+Q
+Q
+q
+1 0 0 1 200.2211 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 263.6687 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 109.3343 0 Td (Commit id) Tj T* -109.3343 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (LLVM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 200.2211 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (d01f2fb216885399adbe219ede961700280e2a15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (CLANG) Tj T* ET
+Q
+Q
+q
+1 0 0 1 200.2211 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (30c6f6cb565a55b4e3ef57385465e6534f8b4ace) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (GOLD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 200.2211 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (87dae28a94a7df20cd011e6fd651bbbb6e694073) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 194.2211 0 m 194.2211 72 l S
+n 0 72 m 469.8898 72 l S
+n 0 0 m 0 72 l S
+n 469.8898 0 m 469.8898 72 l S
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R53': class PDFStream 
+53 0 obj
+% page stream
+<< /Length 1192 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 711.0236 cm
+1 1 1 rg
+n 0 54 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 36 469.8898 -18 re f*
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (EWL2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 200.2211 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (c6ccb5062485fe5acc14fda645dfde7f0649bbbf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Compiler-rt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 200.2211 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (c0618678f072522725fb6ccbdc377d47626623fc) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (LLVM_tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 200.2211 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F3 10 Tf 12 TL (e852e1a660763c9f42994da9511dda87348b0203) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 194.2211 0 m 194.2211 54 l S
+n 0 0 m 0 54 l S
+n 469.8898 0 m 469.8898 54 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+ 
+endstream
+
+endobj
+% 'R54': class PDFPageLabels 
+54 0 obj
+% Document Root
+<< /Nums [ 0
+ 55 0 R
+ 1
+ 56 0 R
+ 2
+ 57 0 R
+ 3
+ 58 0 R
+ 4
+ 59 0 R
+ 5
+ 60 0 R
+ 6
+ 61 0 R
+ 7
+ 62 0 R
+ 8
+ 63 0 R
+ 9
+ 64 0 R ] >>
+endobj
+% 'R55': class PDFPageLabel 
+55 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R56': class PDFPageLabel 
+56 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R57': class PDFPageLabel 
+57 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R58': class PDFPageLabel 
+58 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R59': class PDFPageLabel 
+59 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R60': class PDFPageLabel 
+60 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R61': class PDFPageLabel 
+61 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R62': class PDFPageLabel 
+62 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R63': class PDFPageLabel 
+63 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R64': class PDFPageLabel 
+64 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+xref
+0 65
+0000000000 65535 f
+0000000113 00000 n
+0000000259 00000 n
+0000000424 00000 n
+0000000612 00000 n
+0000000852 00000 n
+0000001118 00000 n
+0000001391 00000 n
+0000001656 00000 n
+0000001927 00000 n
+0000002088 00000 n
+0000002258 00000 n
+0000002590 00000 n
+0000002884 00000 n
+0000003162 00000 n
+0000003353 00000 n
+0000003580 00000 n
+0000003890 00000 n
+0000004170 00000 n
+0000004450 00000 n
+0000004730 00000 n
+0000005010 00000 n
+0000005290 00000 n
+0000005571 00000 n
+0000005852 00000 n
+0000006011 00000 n
+0000006239 00000 n
+0000006365 00000 n
+0000006538 00000 n
+0000006734 00000 n
+0000006920 00000 n
+0000007104 00000 n
+0000007286 00000 n
+0000007471 00000 n
+0000007656 00000 n
+0000007844 00000 n
+0000008059 00000 n
+0000008251 00000 n
+0000008441 00000 n
+0000008626 00000 n
+0000008862 00000 n
+0000009020 00000 n
+0000009209 00000 n
+0000009367 00000 n
+0000009557 00000 n
+0000017367 00000 n
+0000027180 00000 n
+0000036875 00000 n
+0000047459 00000 n
+0000053897 00000 n
+0000061700 00000 n
+0000066633 00000 n
+0000074111 00000 n
+0000081645 00000 n
+0000082942 00000 n
+0000083152 00000 n
+0000083229 00000 n
+0000083306 00000 n
+0000083383 00000 n
+0000083460 00000 n
+0000083537 00000 n
+0000083614 00000 n
+0000083691 00000 n
+0000083768 00000 n
+0000083845 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\220t\240 \275\330\337\011\267\231\301\026%6\322\274) (\220t\240 \275\330\337\011\267\231\301\026%6\322\274)] 
+
+ /Info 25 0 R
+ /Root 24 0 R
+ /Size 65 >>
+startxref
+83893
+%%EOF

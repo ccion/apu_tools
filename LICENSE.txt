@@ -1,0 +1,6 @@
+==============================================================================
+Apex Compiler Release License
+==============================================================================
+
+The license file for LLVM can be found in doc/LICENSE_llvm.txt
+The license file for the GOLD linker can be found in doc/LICENSE_gold.txt

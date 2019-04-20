@@ -1,0 +1,778 @@
+__________________________________________________________________________
+
+Tue Feb 12 18:19:37 PST 2019
+
+Free Memory: 73963 kB
+Total Memory: 90112 kB
+
+java.class.path:
+    /tmp/install.dir.83089/InstallerData
+    /tmp/install.dir.83089/InstallerData/installer.zip
+
+ZGUtil.CLASS_PATH:
+    /tmp/install.dir.83089/InstallerData
+    /tmp/install.dir.83089/InstallerData/installer.zip
+
+sun.boot.class.path:
+    /usr/lib/jvm/java-8-oracle/jre/lib/resources.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/jce.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar
+    /usr/lib/jvm/java-8-oracle/jre/classes
+
+java.ext.dirs:
+    /usr/lib/jvm/java-8-oracle/jre/lib/ext
+    /usr/java/packages/lib/ext
+
+java.version                  == 1.8.0_201 (Java 1)
+java.vm.name                  == Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor                == Oracle Corporation
+java.vm.version               == 25.201-b09
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Oracle Corporation
+java.vm.specification.version == 1.8
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Oracle Corporation
+java.specification.version    == 1.8
+java.vendor                   == Oracle Corporation
+java.vendor.url               == http://java.oracle.com/
+java.class.version            == 52.0
+java.library.path             == /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+java.compiler                 == null
+java.home                     == /usr/lib/jvm/java-8-oracle/jre
+java.io.tmpdir                == /tmp
+os.name                       == Linux
+os.arch                       == amd64
+os.version                    == 4.18.0-15-generic
+path.separator                == :
+file.separator                == /
+file.encoding                 == UTF-8
+user.name                     == root
+user.home                     == /root
+user.dir                      == /tmp/install.dir.83089
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+Installed Feature(s) ACF of NXP Compiler for APU v1.0 b530
+
+Install Begin: FEBRUARY 12, 2019 6:13:55 PM PST
+Install End: FEBRUARY 12, 2019 6:19:31 PM PST
+
+Installed by InstallAnywhere 16.5 Professional Build 4860
+
+
+User Interactions
+-----------------
+
+
+#Choose Install Location
+#-----------------------
+USER_INSTALL_DIR=/home/share/kus_adas/s32v234_sdk/apu_tools
+
+#Choose Link Folder
+#------------------
+USER_SHORTCUTS=Do Not Install
+
+#Install
+#-------
+-fileOverwrite_/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Uninstall NXP Compiler for APU v1.0 b530.lax=Yes
+-fileOverwrite_/home/share/kus_adas/s32v234_sdk/apu_tools/LICENSE.txt=Yes
+-fileOverwrite_/home/share/kus_adas/s32v234_sdk/apu_tools/license.jar=Yes
+
+Summary
+-------
+
+Installation: Successful.
+
+196 Successes
+0 Warnings
+0 NonFatalErrors
+0 FatalErrors
+
+Action Notes:
+
+None
+
+Install Log Detail:
+
+Check Disk Space:         /root/NXP/APU_Compiler_v1.0
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 125,058,285; Free Disk Space: 34,213,232,640
+
+Check Disk Space:         /home/share/kus_adas/s32v234_sdk/apu_tools
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Required Disk Space: 125,058,285; Free Disk Space: 34,213,261,312
+
+Install Directory:        /tmp/733263.tmp/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install File:             /tmp/733263.tmp/FNPLicensingService/FNPLicensingService
+                          Status: SUCCESSFUL
+
+Install File:             /tmp/733263.tmp/install_fnp.sh
+                          Status: SUCCESSFUL
+
+Install File:             /tmp/733263.tmp/license.jar
+                          Status: SUCCESSFUL
+
+Expand Archive:           /tmp/733263.tmp/Activation.zip
+                          Status: SUCCESSFUL
+
+Execute Script/Batch file:   Linux Init CLL
+                          Status: SUCCESSFUL
+
+Execute Command:          java -jar "/tmp/733263.tmp/license.jar" verify -feature APUCompiler -version 1.1 -prod APU-COMPILER_v1.1
+                          Status: SUCCESSFUL
+
+Execute Command:          java -jar "/tmp/733263.tmp/license.jar" run -feature Activated -version 1.1 -prod APU-COMPILER_v1.1
+                          Status: SUCCESSFUL
+
+Install Directory:        /home/share/kus_adas/s32v234_sdk/apu_tools/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+Install Directory:        /home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/
+                          Status: SUCCESSFUL
+
+Install Uninstaller:      NXP Compiler for APU v1.0 b530(Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Uninstall NXP Compiler for APU v1.0 b530.lax
+                          Status: SUCCESSFUL
+
+Install Uninstaller:      NXP Compiler for APU v1.0 b530(Install All Uninstaller Components)
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/bin/clang
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/bin/ld-new
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/bin/llvm-ar
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/bin/llvm-cov
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/bin/llvm-objdump
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/bin/llvm-profdata
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexBuiltins.pdf
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexIntrinsics.pdf
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexReadme.pdf
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexReleaseNotes.pdf
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexRuntime.pdf
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/clang.txt
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/ld-new.txt
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/LICENSE_gold.txt
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/LICENSE_llvm.txt
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/llvm-ar.txt
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/llvm-cov.txt
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/llvm-objdump.txt
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/doc/llvm-profdata.txt
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/abort_exit.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ansi_files.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ansi_fp.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ansi_parms.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/ansi_prefix.APEX.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/apex-support.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/chess_compatibility.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/file_struc.APEX.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/instructions.hpp
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/intr-func-quals.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/intrinsics.hpp
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/math.APEX.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/runtime-info.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/scalar-types.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/setjmp.APEX.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/stdarg.APEX.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/stdio.APEX.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/vec32-ctor.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/vector-types.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/vif.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/arith.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/assert.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/assert_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/buffer_io.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cassert
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cctype
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cerrno
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cfloat
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/char_io.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cinttypes
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ciso646
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/climits
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/clocale
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cmath
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/common.prefix
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/complex.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/console_io.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/critical_regions.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/critical_regions.pthreads.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/csetjmp
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/csignal
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstdarg
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstddef
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstdint
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstdio
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstdlib
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstring
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ctime
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ctype.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ctype_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cwchar
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cwctype
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/div_t.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/eof.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/errno.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewlGlobals.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_ctype.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_inttypes.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_locale.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_math.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_setjmp.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_signal.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stdarg.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stddef.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stdint.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stdio.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stdlib.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_string.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_time.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_wchar.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_wctype.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_c_version.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_lib_ext1.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_misra_types.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_rsize_t.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_t.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_thread_local_data.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/fenv.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/file_io.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/file_struc.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/float.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/inttypes.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/iso646.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/lconv.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/libm.prefix
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/lib_c99.prefix
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/lib_ewl.prefix
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/limits.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/limits_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/locale.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/locale_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math_config.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math_inlines.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math_integral.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/max_align_t.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/mbstring.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/mem_funcs.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/misc_io.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/null.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/os_enum.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/pool_alloc.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/setjmp.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/signal.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/size_t.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdalign.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdarg.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdbool.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stddef.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdint.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdio.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdio.posix.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdio_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdlib.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdnoreturn.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/string.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/string_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/strtold_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/strtoul_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/tgmath.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/thread_local_data_pthreads.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/time.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/time_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/uchar.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/va_list.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wchar.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wchar_io.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wchar_t.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wcstold_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wcstoul_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wctrans.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wctype.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wctype_api.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/weof.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wtime.h
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib/libcll_app_libFNP.so
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib/libcll_app_x64.so
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libc.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libc99.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libhosted.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libhosted_syn.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libm.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libprofile.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/librt.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libstartc.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libstartcpp.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libstart_gcov.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libstart_lprof.a
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/support/APU2.bcf
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/support/APU2.lcf
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/support/build.no
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/support/S32V_APEX.lcf
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/support/startup.s
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/support/startup_cpp.s
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/support/startup_gcov.s
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/support/startup_lprof.s
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/LICENSE.txt
+                          Status: SUCCESSFUL
+
+Install File:             /home/share/kus_adas/s32v234_sdk/apu_tools/license.jar
+                          Status: SUCCESSFUL
+
+Install Directory:        /home/share/kus_adas/s32v234_sdk/apu_tools/
+                          Status: SUCCESSFUL
+                          Additional Notes: NOTE - Directory already existed
+
+
+====================STDERR ENTRIES==================
+
+__________________________________________________________________________
+
+InstallAnywhere 2014 SP1
+Version: 16.5
+__________________________________________________________________________
+
+Tue Feb 12 18:13:54 PST 2019
+
+Free Memory: 28120 kB
+Total Memory: 31744 kB
+
+No Arguments
+
+java.class.path:
+    /tmp/install.dir.83089/InstallerData
+    /tmp/install.dir.83089/InstallerData/installer.zip
+
+ZGUtil.CLASS_PATH:
+    /tmp/install.dir.83089/InstallerData
+    /tmp/install.dir.83089/InstallerData/installer.zip
+
+sun.boot.class.path:
+    /usr/lib/jvm/java-8-oracle/jre/lib/resources.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/jce.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar
+    /usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar
+    /usr/lib/jvm/java-8-oracle/jre/classes
+
+java.ext.dirs:
+    /usr/lib/jvm/java-8-oracle/jre/lib/ext
+    /usr/java/packages/lib/ext
+
+java.version                  == 1.8.0_201 (Java 1)
+java.vm.name                  == Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor                == Oracle Corporation
+java.vm.version               == 25.201-b09
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Oracle Corporation
+java.vm.specification.version == 1.8
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Oracle Corporation
+java.specification.version    == 1.8
+java.vendor                   == Oracle Corporation
+java.vendor.url               == http://java.oracle.com/
+java.class.version            == 52.0
+java.library.path             == /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+java.compiler                 == null
+java.home                     == /usr/lib/jvm/java-8-oracle/jre
+java.io.tmpdir                == /tmp
+os.name                       == Linux
+os.arch                       == amd64
+os.version                    == 4.18.0-15-generic
+path.separator                == :
+file.separator                == /
+file.encoding                 == UTF-8
+user.name                     == root
+user.home                     == /root
+user.dir                      == /tmp/install.dir.83089
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+
+Loading externalized properties
+
+System's temporary directory = /tmp
+8. final log file name=/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Logs/NXP_Compiler_for_APU_v1.0_b530_Install_02_12_2019_18_15_14.log
+XMLScriptWriter: No Installation Objects were skipped
+Retrying Installables deferred in pass 0
+Deferral retries done because: 
+There were no deferrals in the last pass.
+Did not match to message method
+SHUTDOWN REQUESTED
+
+REGISTRY ALREADY STORED!
+
+Exiting with exit code: 0
+8. final log file name=/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Logs/NXP_Compiler_for_APU_v1.0_b530_Install_02_12_2019_18_15_14.log
+====================STDOUT ENTRIES==================
+
+(X) commiting registry
+(X) shutting down service manager
+(X) cleaning up temporary directories

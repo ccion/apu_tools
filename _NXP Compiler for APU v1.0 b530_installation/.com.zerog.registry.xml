@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registry install_date="2019-02-12 18:15:14" version="1.1" last_modified="2019-02-12 18:19:31">
+	<products>
+		<product name="NXP Compiler for APU v1.0 b530" id="4003c4d2-1f25-11b2-891f-8882eaf3bb9f" upgrade_id="9f245fea-1f1f-11b2-b6d3-9f03954978ef" version="1.0.0.0" copyright="(c) Copyright NXP Semiconductors 2018.  All rights reserved." info_url="www.nxp.com" support_url="www.nxp.com" location="/home/share/kus_adas/s32v234_sdk/apu_tools" last_modified="2019-02-12 18:15:14">
+		<![CDATA[NXP Compiler for APU v1.0 b530]]>
+			<vendor name="NXP Semiconductors N.V." id="a90dd903-1f1f-11b2-bfd4-9f03954978ef" home_page="www.nxp.com" email=""/>
+			<feature short_name="ACF" name="APU Compiler" last_modified="2019-02-12 18:15:14">
+			<![CDATA[This installs the core NXP Compiler for APU v1.0 b530]]>
+				<component ref_id="9f246029-1f1f-11b2-b6ff-9f03954978ef" version="1.0.0.0" location="/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Uninstall NXP Compiler for APU v1.0 b530"/>
+				<component ref_id="4012e4ab-1f25-11b2-8a9a-8882eaf3bb9f" version="1.0.0.0" location="/home/share/kus_adas/s32v234_sdk/apu_tools/LICENSE.txt"/>
+			</feature>
+		</product>
+	</products>
+	<components>
+		<component id="4012e4ab-1f25-11b2-8a9a-8882eaf3bb9f" version="1.0.0.0" name="APU Compiler" location="/home/share/kus_adas/s32v234_sdk/apu_tools/LICENSE.txt" vendor="NXP Semiconductors N.V.">
+			<resource keyfile="false" name="FNPLicensingService" location="/tmp/733263.tmp/FNPLicensingService" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="FNPLicensingService" location="/tmp/733263.tmp/FNPLicensingService/FNPLicensingService" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="install_fnp.sh" location="/tmp/733263.tmp/install_fnp.sh" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="license.jar" location="/tmp/733263.tmp/license.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="bin" location="/home/share/kus_adas/s32v234_sdk/apu_tools/bin" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[true]]>
+			</resource>
+			<resource keyfile="false" name="clang" location="/home/share/kus_adas/s32v234_sdk/apu_tools/bin/clang" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ld-new" location="/home/share/kus_adas/s32v234_sdk/apu_tools/bin/ld-new" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="llvm-ar" location="/home/share/kus_adas/s32v234_sdk/apu_tools/bin/llvm-ar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="llvm-cov" location="/home/share/kus_adas/s32v234_sdk/apu_tools/bin/llvm-cov" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="llvm-objdump" location="/home/share/kus_adas/s32v234_sdk/apu_tools/bin/llvm-objdump" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="llvm-profdata" location="/home/share/kus_adas/s32v234_sdk/apu_tools/bin/llvm-profdata" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="doc" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[true]]>
+			</resource>
+			<resource keyfile="false" name="ApexBuiltins.pdf" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexBuiltins.pdf" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ApexIntrinsics.pdf" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexIntrinsics.pdf" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ApexReadme.pdf" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexReadme.pdf" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ApexReleaseNotes.pdf" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexReleaseNotes.pdf" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ApexRuntime.pdf" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/ApexRuntime.pdf" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="clang.txt" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/clang.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ld-new.txt" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/ld-new.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="LICENSE_gold.txt" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/LICENSE_gold.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="LICENSE_llvm.txt" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/LICENSE_llvm.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="llvm-ar.txt" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/llvm-ar.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="llvm-cov.txt" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/llvm-cov.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="llvm-objdump.txt" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/llvm-objdump.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="llvm-profdata.txt" location="/home/share/kus_adas/s32v234_sdk/apu_tools/doc/llvm-profdata.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="include" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[true]]>
+			</resource>
+			<resource keyfile="false" name="ewl2" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="abort_exit.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/abort_exit.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ansi_files.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ansi_files.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ansi_fp.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ansi_fp.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ansi_parms.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ansi_parms.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="apex" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="ansi_prefix.APEX.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/ansi_prefix.APEX.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="apex-support.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/apex-support.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="chess_compatibility.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/chess_compatibility.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="file_struc.APEX.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/file_struc.APEX.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="instructions.hpp" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/instructions.hpp" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="intr-func-quals.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/intr-func-quals.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="intrinsics.hpp" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/intrinsics.hpp" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="math.APEX.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/math.APEX.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="runtime-info.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/runtime-info.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="scalar-types.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/scalar-types.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="setjmp.APEX.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/setjmp.APEX.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdarg.APEX.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/stdarg.APEX.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdio.APEX.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/stdio.APEX.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="vec32-ctor.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/vec32-ctor.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="vector-types.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/vector-types.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="vif.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/apex/vif.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="arith.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/arith.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="assert.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/assert.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="assert_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/assert_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="buffer_io.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/buffer_io.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cassert" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cassert" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cctype" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cctype" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cerrno" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cerrno" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cfloat" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cfloat" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="char_io.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/char_io.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cinttypes" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cinttypes" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ciso646" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ciso646" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="climits" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/climits" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="clocale" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/clocale" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cmath" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cmath" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="common.prefix" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/common.prefix" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="complex.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/complex.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="console_io.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/console_io.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="critical_regions.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/critical_regions.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="critical_regions.pthreads.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/critical_regions.pthreads.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="csetjmp" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/csetjmp" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="csignal" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/csignal" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cstdarg" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstdarg" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cstddef" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstddef" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cstdint" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstdint" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cstdio" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstdio" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cstdlib" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstdlib" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cstring" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cstring" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ctime" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ctime" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ctype.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ctype.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ctype_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ctype_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cwchar" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cwchar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="cwctype" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/cwctype" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="div_t.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/div_t.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="eof.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/eof.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="errno.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/errno.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewlGlobals.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewlGlobals.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_ctype.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_ctype.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_inttypes.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_inttypes.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_locale.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_locale.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_math.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_math.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_setjmp.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_setjmp.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_signal.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_signal.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_stdarg.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stdarg.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_stddef.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stddef.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_stdint.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stdint.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_stdio.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stdio.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_stdlib.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_stdlib.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_string.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_string.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_time.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_time.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_wchar.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_wchar.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_cpp_std_wctype.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_cpp_std_wctype.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_c_version.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_c_version.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_lib_ext1.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_lib_ext1.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_misra_types.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_misra_types.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_rsize_t.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_rsize_t.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_t.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_t.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="ewl_thread_local_data.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/ewl_thread_local_data.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="fenv.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/fenv.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="file_io.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/file_io.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="file_struc.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/file_struc.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="float.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/float.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="inttypes.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/inttypes.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="iso646.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/iso646.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="lconv.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/lconv.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libm.prefix" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/libm.prefix" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="lib_c99.prefix" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/lib_c99.prefix" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="lib_ewl.prefix" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/lib_ewl.prefix" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="limits.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/limits.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="limits_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/limits_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="locale.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/locale.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="locale_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/locale_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="math.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="math_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="math_config.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math_config.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="math_inlines.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math_inlines.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="math_integral.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/math_integral.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="max_align_t.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/max_align_t.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="mbstring.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/mbstring.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="mem_funcs.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/mem_funcs.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="misc_io.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/misc_io.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="null.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/null.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="os_enum.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/os_enum.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="pool_alloc.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/pool_alloc.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="setjmp.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/setjmp.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="signal.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/signal.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="size_t.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/size_t.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdalign.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdalign.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdarg.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdarg.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdbool.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdbool.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stddef.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stddef.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdint.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdint.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdio.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdio.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdio.posix.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdio.posix.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdio_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdio_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdlib.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdlib.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="stdnoreturn.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/stdnoreturn.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="string.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/string.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="string_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/string_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="strtold_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/strtold_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="strtoul_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/strtoul_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="tgmath.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/tgmath.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="thread_local_data_pthreads.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/thread_local_data_pthreads.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="time.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/time.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="time_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/time_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="uchar.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/uchar.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="va_list.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/va_list.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="wchar.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wchar.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="wchar_io.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wchar_io.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="wchar_t.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wchar_t.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="wcstold_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wcstold_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="wcstoul_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wcstoul_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="wctrans.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wctrans.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="wctype.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wctype.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="wctype_api.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wctype_api.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="weof.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/weof.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="wtime.h" location="/home/share/kus_adas/s32v234_sdk/apu_tools/include/ewl2/wtime.h" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="lib" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[true]]>
+			</resource>
+			<resource keyfile="false" name="libcll_app_libFNP.so" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib/libcll_app_libFNP.so" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libcll_app_x64.so" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib/libcll_app_x64.so" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="lib-apex" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[true]]>
+			</resource>
+			<resource keyfile="false" name="libc.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libc.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libc99.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libc99.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libhosted.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libhosted.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libhosted_syn.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libhosted_syn.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libm.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libm.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libprofile.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libprofile.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="librt.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/librt.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libstartc.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libstartc.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libstartcpp.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libstartcpp.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libstart_gcov.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libstart_gcov.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="libstart_lprof.a" location="/home/share/kus_adas/s32v234_sdk/apu_tools/lib-apex/libstart_lprof.a" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="support" location="/home/share/kus_adas/s32v234_sdk/apu_tools/support" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[true]]>
+			</resource>
+			<resource keyfile="false" name="APU2.bcf" location="/home/share/kus_adas/s32v234_sdk/apu_tools/support/APU2.bcf" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="APU2.lcf" location="/home/share/kus_adas/s32v234_sdk/apu_tools/support/APU2.lcf" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="build.no" location="/home/share/kus_adas/s32v234_sdk/apu_tools/support/build.no" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="S32V_APEX.lcf" location="/home/share/kus_adas/s32v234_sdk/apu_tools/support/S32V_APEX.lcf" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="startup.s" location="/home/share/kus_adas/s32v234_sdk/apu_tools/support/startup.s" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="startup_cpp.s" location="/home/share/kus_adas/s32v234_sdk/apu_tools/support/startup_cpp.s" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="startup_gcov.s" location="/home/share/kus_adas/s32v234_sdk/apu_tools/support/startup_gcov.s" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="startup_lprof.s" location="/home/share/kus_adas/s32v234_sdk/apu_tools/support/startup_lprof.s" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="true" name="LICENSE.txt" location="/home/share/kus_adas/s32v234_sdk/apu_tools/LICENSE.txt" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="license.jar" location="/home/share/kus_adas/s32v234_sdk/apu_tools/license.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+		</component>
+		<component id="9f246029-1f1f-11b2-b6ff-9f03954978ef" version="1.0.0.0" name="InstallAnywhere Uninstall Component" location="/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Uninstall NXP Compiler for APU v1.0 b530" vendor="NXP Semiconductors N.V.">
+			<resource keyfile="false" name="NXP_Compiler_for_APU_v1.0_b530_Install_02_12_2019_18_15_14.log" location="/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Logs/NXP_Compiler_for_APU_v1.0_b530_Install_02_12_2019_18_15_14.log" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="_NXP Compiler for APU v1.0 b530_installation" location="/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[false]]>
+			</resource>
+			<resource keyfile="false" name="Logs" location="/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Logs" type="directory" uninstall="true" rollbackEnabledCancel="true">
+			<![CDATA[true]]>
+			</resource>
+			<resource keyfile="false" name="uninstaller.jar" location="/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/uninstaller.jar" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="true" name="Uninstall NXP Compiler for APU v1.0 b530" location="/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Uninstall NXP Compiler for APU v1.0 b530" type="executable" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name="Uninstall NXP Compiler for APU v1.0 b530.lax" location="/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/Uninstall NXP Compiler for APU v1.0 b530.lax" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+			<resource keyfile="false" name=".com.zerog.registry.xml" location="/home/share/kus_adas/s32v234_sdk/apu_tools/_NXP Compiler for APU v1.0 b530_installation/.com.zerog.registry.xml" type="file" uninstall="true" rollbackEnabledCancel="true"/>
+		</component>
+	</components>
+</registry>

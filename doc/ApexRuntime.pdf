@@ -1,0 +1,739 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 5 0 R
+ /F5 6 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+5 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+6 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 13 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 12 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 14 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 12 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 15 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 12 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R10': class PDFCatalog 
+10 0 obj
+% Document Root
+<< /Outlines 16 0 R
+ /PageLabels 17 0 R
+ /PageMode /UseNone
+ /Pages 12 0 R
+ /Type /Catalog >>
+endobj
+% 'R11': class PDFInfo 
+11 0 obj
+<< /Author ()
+ /CreationDate (D:20180813045434-02'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Apex Runtime) >>
+endobj
+% 'R12': class PDFPages 
+12 0 obj
+% page tree
+<< /Count 3
+ /Kids [ 7 0 R
+ 8 0 R
+ 9 0 R ]
+ /Type /Pages >>
+endobj
+% 'R13': class PDFStream 
+13 0 obj
+% page stream
+<< /Length 7906 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9.64 Tm /F2 20 Tf 24 TL 167.7149 0 Td (Apex Runtime) Tj T* -167.7149 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (This document was generated on 13-August-2018.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Build #530, based on clang 4.0.1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.6772 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 642.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.566412 Tw (The following are runtime routines which contains implementation that are specific to APEX. They are) Tj T* 0 Tw (available as part of the runtime library librt.a) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.8929 cm
+q
+q
+.988825 0 0 .988825 0 0 cm
+q
+1 0 0 1 6.6 6.674587 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 474 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* runtime abort */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj (compilerrt_abort_impl) Tj (\() Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F4 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (char) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (file) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (line) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F4 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (char) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (function) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 565.8929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .636457 Tw (This is called by other runtime routines to handle abort. For APEX, this calls the _exit_fsl\(\) routine which) Tj T* 0 Tw (flush the stdout and halt the program gracefully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 520.6929 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* scalar memcpy */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (void) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg ( ) Tj (__smemcpy) Tj (\() Tj .690196 0 .25098 rg (char) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (dst) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F4 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (char) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (src) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj .690196 0 .25098 rg (long) Tj 0 0 0 rg ( ) Tj (n) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 488.6929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .121235 Tw (The compiler converts standard memcpy\(\) calls to __smemcpy if the input pointers points to scalar type. It) Tj T* 0 Tw (does a byte-wide copy of size n from src address to dst address. It returns dst.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 443.4929 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* scalar memset */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (void) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg ( ) Tj (__smemset) Tj (\() Tj .690196 0 .25098 rg (char) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (dst) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (val) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj .690196 0 .25098 rg (long) Tj 0 0 0 rg ( ) Tj (n) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 411.4929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .398735 Tw (The compiler converts standard memset\(\) calls to __smemset if the input pointers points to scalar type. It) Tj T* 0 Tw (does a byte-wide copy of size n from val to dst address. It returns dst.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.2929 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vector memcpy */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj (__vmemcpy) Tj (\() Tj .690196 0 .25098 rg (char) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (dst) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F4 10 Tf 0 0 0 rg ( ) Tj .690196 0 .25098 rg (char) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (src) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj .690196 0 .25098 rg (long) Tj 0 0 0 rg ( ) Tj (n) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 334.2929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .086235 Tw (The compiler converts standard memcpy\(\) calls to __vmemcpy if the input pointers points to vector type. It) Tj T* 0 Tw (copies n vec08u vector from dst to src.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 289.0929 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vector memset */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (void) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg ( ) Tj (__vmemset) Tj (\() Tj .690196 0 .25098 rg (char) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (dst) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (val) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj .690196 0 .25098 rg (long) Tj 0 0 0 rg ( ) Tj (n) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 257.0929 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .363735 Tw (The compiler converts standard memset\(\) calls to __vmemset if the input pointers points to vector type. It) Tj T* 0 Tw (copies value val as vector vec08 from dst to dst + n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.6833 cm
+q
+q
+.898107 0 0 .898107 0 0 cm
+q
+1 0 0 1 6.6 7.348787 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 522 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* optimized vector memcpy */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj (__vmemcpy_aligned_min4b_mult2b) Tj (\() Tj (vec08u) Tj ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (dst) Tj (,) Tj ( ) Tj /F5 10 Tf 0 .501961 0 rg (const) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (vec08u) Tj ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (src) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj .690196 0 .25098 rg (long) Tj 0 0 0 rg ( ) Tj (n) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 183.6833 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .734692 Tw (This is an optimized asm implementation of vector memcpy to hide vector load store latency. It copies a) Tj T* 0 Tw (two vec08 for each hardware loop iteration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 138.4833 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* optimized vector memset */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj (__vmemset_aligned_min2b_mult2b) Tj (\() Tj (vec08u) Tj ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (dst) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (val) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj .690196 0 .25098 rg (long) Tj 0 0 0 rg ( ) Tj (n) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 106.4833 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.192339 Tw (This is an optimized asm implementation of vector memset to hide vector load store latency. It set two) Tj T* 0 Tw (vec08 to lower 8-bit of val for each hardware loop iteration) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R14': class PDFStream 
+14 0 obj
+% page stream
+<< /Length 6670 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* optimized scalar memset */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj (__smemset_aligned_mult4b) Tj (\() Tj .690196 0 .25098 rg (char) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (dst) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (val) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (unsigned) Tj 0 0 0 rg ( ) Tj .690196 0 .25098 rg (long) Tj 0 0 0 rg ( ) Tj (n) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 695.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .54104 Tw (This is an optimized asm implementation of scalar memset. It set four chars to lower 8-bit of val for each) Tj T* 0 Tw (hardware loop iteration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vec16s division */) Tj /F4 10 Tf 0 0 0 rg  T* (vec16s) Tj ( ) Tj (__divi16v) Tj (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 605.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vec16u division */) Tj /F4 10 Tf 0 0 0 rg  T* (vec16u) Tj ( ) Tj (__udivi16v) Tj (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16u) Tj ( ) Tj (b) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 560.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vec16s modulo */) Tj /F4 10 Tf 0 0 0 rg  T* (vec16s) Tj ( ) Tj (__remi16v) Tj (\() Tj (vec16s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16s) Tj ( ) Tj (b) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 515.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vec16u modulo */) Tj /F4 10 Tf 0 0 0 rg  T* (vec16u) Tj ( ) Tj (__uremi16v) Tj (\() Tj (vec16u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec16u) Tj ( ) Tj (b) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .969983 Tw (The 16-bit vector division and modulo operations all share the same underlying unsigned 16-bit division) Tj T* 0 Tw 1.13229 Tw (algorithm in hand-optimized assembly. The signed variant calculates the sign-bit result which then calls) Tj T* 0 Tw (the unsigned version. The modulo function is simply \(a - a/b * b\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vec32s division */) Tj /F4 10 Tf 0 0 0 rg  T* (vec32s) Tj ( ) Tj (__divi32v) Tj (\() Tj (vec32s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec32s) Tj ( ) Tj (b) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 380.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vec32u division */) Tj /F4 10 Tf 0 0 0 rg  T* (vec32u) Tj ( ) Tj (__udivi32v) Tj (\() Tj (vec32u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec32u) Tj ( ) Tj (b) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 335.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vec32s modulo */) Tj /F4 10 Tf 0 0 0 rg  T* (vec32s) Tj ( ) Tj (__remi32v) Tj (\() Tj (vec32s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec32s) Tj ( ) Tj (b) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 290.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vec32s modulo */) Tj /F4 10 Tf 0 0 0 rg  T* (vec32u) Tj ( ) Tj (__uremi32v) Tj (\() Tj (vec32u) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec32u) Tj ( ) Tj (b) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 234.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL .969983 Tw (The 32-bit vector division and modulo operations all share the same underlying unsigned 32-bit division) Tj T* 0 Tw .424651 Tw (algorithm. It performs fast reciprocal approximation using table lookup for 1/b and result is then multiplied) Tj T* 0 Tw .339398 Tw (to a. The signed variant calculate the sign-bit and then calls the unsigned version. The modulo function is) Tj T* 0 Tw (simply \(a - a/b * b\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* vec32s mutiply */) Tj /F4 10 Tf 0 0 0 rg  T* (vec32s) Tj ( ) Tj (__muli32v) Tj (\() Tj (vec32s) Tj ( ) Tj (a) Tj (,) Tj ( ) Tj (vec32s) Tj ( ) Tj (b) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 169.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (32-bit vector multiplication returning the lower 32-bit result in vec32s) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* jum_buf setup */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (setjmp) Tj (\() Tj .690196 0 .25098 rg (jmp_buf) Tj 0 0 0 rg ( ) Tj (env) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 91.82362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .929986 Tw (Save current context to jmp_buf for later use by longjmp to restore execution to right after setjmp\(\) call.) Tj T* 0 Tw (On Apex, LR, SP, and VSP are saved.) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R15': class PDFStream 
+15 0 obj
+% page stream
+<< /Length 838 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F3 10 Tf .25098 .501961 .501961 rg (/* restore execution context from jmp_buf */) Tj /F4 10 Tf 0 0 0 rg  T* .690196 0 .25098 rg (void) Tj 0 0 0 rg ( ) Tj (longjmp) Tj (\() Tj .690196 0 .25098 rg (jmp_buf) Tj 0 0 0 rg ( ) Tj (env) Tj (,) Tj ( ) Tj .690196 0 .25098 rg (int) Tj 0 0 0 rg ( ) Tj (value) Tj (\);) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 695.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .311984 Tw (Restore context from jmp_buf. On Apex, LR, SP, VSP are restored. Execution continues right after where) Tj T* 0 Tw (setjmp\(\) is last called.) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R16': class PDFOutlines 
+16 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+% 'R17': class PDFPageLabels 
+17 0 obj
+% Document Root
+<< /Nums [ 0
+ 18 0 R
+ 1
+ 19 0 R
+ 2
+ 20 0 R ] >>
+endobj
+% 'R18': class PDFPageLabel 
+18 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R19': class PDFPageLabel 
+19 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R20': class PDFPageLabel 
+20 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+xref
+0 21
+0000000000 65535 f
+0000000113 00000 n
+0000000257 00000 n
+0000000422 00000 n
+0000000597 00000 n
+0000000774 00000 n
+0000000935 00000 n
+0000001104 00000 n
+0000001383 00000 n
+0000001662 00000 n
+0000001942 00000 n
+0000002101 00000 n
+0000002322 00000 n
+0000002445 00000 n
+0000010452 00000 n
+0000017223 00000 n
+0000018163 00000 n
+0000018246 00000 n
+0000018365 00000 n
+0000018442 00000 n
+0000018519 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(7\340v\374\200\033\331\331\015Eo8\221\366k$) (7\340v\374\200\033\331\331\015Eo8\221\366k$)] 
+
+ /Info 11 0 R
+ /Root 10 0 R
+ /Size 21 >>
+startxref
+18566
+%%EOF

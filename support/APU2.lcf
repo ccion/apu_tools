@@ -1,0 +1,108 @@
+OUTPUT_FORMAT("elf32-big")
+ENTRY(__main_fsl)
+
+/* Default memory layout in bytes
++-----+-------------+-----------+
+| VMb | vector data | 2KBx16bit |
++-----+-------------+-----------+
+| DMb | scalar data |           |
++-----+-------------+   128KB   |
+| PMh | text        |           |
++-----+-------------+-----------+
+*/
+
+PHDRS {
+  PMh_sgmt PT_LOAD;
+  DMb_sgmt PT_LOAD;
+  VMb_sgmt PT_LOAD;
+}
+
+MEMORY {
+  VDATA (rw) : ORIGIN = 0x1f400,  LENGTH = 128K
+  TEXT  (rx) : ORIGIN = 0x0,      LENGTH = 44K
+  DATA  (rw) : ORIGIN = 0xb000,   LENGTH = 79k
+  MISC  (rw) : ORIGIN = 0x1ec00,  LENGTH = 4K
+}
+
+__apex_heap_start   = 0x7000;
+__apex_heap_end     = 0xb000;
+
+SECTIONS {
+
+  .startup : {
+    *(.text.__main_fsl)
+    *(.text.__exit_fsl)
+  } > TEXT : PMh_sgmt
+
+  .text : ALIGN(16) {
+    KEEP(*(.text._hosted_clib_io))
+    *(.text .text.*)
+  } > TEXT : PMh_sgmt
+
+  .vdata : ALIGN(128) {
+    *(.data.VMb .data.*.VMb)
+    *(.rodata.VMb .rodata.*.VMb)
+    *(.bss.VMb .bss.*.VMb)
+    . = ALIGN(256);
+    _sp_start_value_VMb = . / 128;
+  } > VDATA : VMb_sgmt
+
+  .data : ALIGN(16) {
+    *(.data .data.*)
+    *(.rodata .rodata.*)
+    *(.bss .bss.*)
+  } > DATA : DMb_sgmt
+
+  /* Append the LLVM profiling sections */
+  __llvm_prf_cnts : ALIGN(16) {
+    __start___llvm_prf_cnts = .;
+    KEEP(*(__llvm_prf_cnts))
+    __stop___llvm_prf_cnts = .;
+  } > DATA : DMb_sgmt
+
+  __llvm_prf_data : ALIGN(16) {
+    __start___llvm_prf_data = .;
+    KEEP(*(__llvm_prf_data))
+    __stop___llvm_prf_data = .;
+  } > DATA : DMb_sgmt
+
+  __llvm_prf_names : ALIGN(16) {
+    __start___llvm_prf_names = .;
+    KEEP(*(__llvm_prf_names))
+    __stop___llvm_prf_names = .;
+  } > DATA : DMb_sgmt
+
+  __llvm_prf_vnds : ALIGN(16) {
+    __start___llvm_prf_vnds = .;
+    KEEP(*(__llvm_prf_vnds))
+    __stop___llvm_prf_vnds = .;
+  } > DATA : DMb_sgmt
+
+  __llvm_covmap : ALIGN(16) {
+    KEEP(*(__llvm_covmap))
+  } > DATA : DMb_sgmt
+
+  .ctordtor : {
+    __CTOR_LIST__ = .;
+    *(.ctors .ctors.*)
+    __CTOR_END__  = .;
+    __DTOR_LIST__ = .;
+    *(.dtors .dtors.*)
+    __DTOR_END__  = .;
+    . = ALIGN(16);
+    _sp_start_value_DMb = .;
+  } > DATA : DMb_sgmt
+
+  .tcthostedio : {
+    *(.tcthostedio)
+  } > DATA
+
+  .memstrtab : {
+    *(.memstrtab)
+  } > MISC
+
+  .tctmemtab : {
+    *(.tctmemtab)
+  } > MISC
+
+}

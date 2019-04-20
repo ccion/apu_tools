@@ -1,0 +1,26 @@
+_entry_point __main_fsl
+
+_symbol __main_fsl 0
+_symbol __exit_fsl _after __main_fsl
+_symbol main _after __exit_fsl
+
+// Stack
+_reserved DMb 0x0 .. 0x3
+_reserved VMb 0x0 .. 0x1
+_stack DMb 0x0004 0x6FFA
+_stack VMb 0x0002 0x07FE
+
+// Heap
+_symbol __apex_heap_start 0x7000
+_symbol __apex_heap_end   0x10000
+_reserved DMb 0x7001 .. 0xFFFF
+
+// Empty dtor
+_symbol __DTOR_LIST__ 0
+_symbol __DTOR_END__ 0
+_symbol __fini_array_start 0
+_symbol __fini_array_end 0
+_extern __DTOR_LIST__
+_extern __DTOR_END__
+_extern __fini_array_start
+_extern __fini_array_end
